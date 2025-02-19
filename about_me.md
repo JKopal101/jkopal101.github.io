@@ -36,8 +36,7 @@ I am currently working toward **[certifications]** and continuously improving my
 
 🚀 *Cybersecurity is an ever-evolving field, and I’m excited to grow with it!* 
 
-<br>
- 
+
 Beyond Cybersecurity, I enjoy **hill walking, snowboarding, boxing, and playing the piano**. I'm always open to collaborating on security-related projects, so feel free to connect!
 
 
