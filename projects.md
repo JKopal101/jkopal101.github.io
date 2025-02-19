@@ -108,7 +108,7 @@ I’ve worked on a variety of projects in the cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">`My BrainStation Capstone Consultant (Retail Case Study) Project`</td>
+      <td style="padding:12px; border:5px solid #545;">My BrainStation Capstone Consultant (Retail Case Study) Project</td>
       <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
