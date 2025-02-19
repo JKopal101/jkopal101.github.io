@@ -3,19 +3,20 @@ layout: page
 title: 
 ---
 
-
+# Welcome to My Portfolio
 <br><br>
 I'm James, passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. Self-taught experience in Network Security, Threat Intelligence, Threat Hunting. I specialize in identifying threats, analysing vulerabilities and automating Cybersecurity tasks to ensure systems remain secure and resilient. 
 <br><br>
-### Featured Projects  
+
+### **Featured Projects**  
 Here are some of my key cybersecurity projects:  
 
 - **[Conducting a Security Audit](https://github.com/JKopal101/Conducting-a-Security-Audit)** – A security assessment following NIST guidelines.  
 - **[Retail Cyber Defence Strategy](https://github.com/JKopal101/Retail-Cyber-Defence-Strategy)** – Implementing secure frameworks for retail.  
 - **[Detection Lab](https://github.com/JKopal101/Detection-Lab)** – SIEM implementation and log analysis.  
 <br>
-### 🏅 Certifications & Courses 
-<br>
+
+### **Certifications & Courses** 
 
 - **[TCM Security: Security Operations (SOC) 101](https://tcm-sec.com/)**  
   
@@ -29,7 +30,7 @@ Here are some of my key cybersecurity projects:
   - Developed an Incident Response Plan (IRP) and security training to enhance resilience.
 
   <br>
-### **Planned Certifications**
+### Planned Certifications
 
 - **CompTIA Security+**, **CompTIA Network+**, **CISSP**  
 - **ISO 27001 Lead Implementer**  
@@ -42,22 +43,22 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 
 # 🛡 Key Tools
 
-#### **Network:**
+#### **Network**:
 - `tcpdump`, `Wireshark`, `Nmap`
 
-#### **Endpoint Protection:**
+#### Endpoint Protection:
 - `Microsoft Defender for Endpoint`, `Velociraptor`
 
-#### **SIEM:**
+#### **SIEM**:
 - `Splunk`, `Elastic`
 
-#### **Governance, Risk, and Compliance (GRC):**
+#### **Governance, Risk, and Compliance (GRC)**:
 - **Tools:** `RiskWatch`, `ISO Compliance Tracker`  
 - **Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 **Let's Connect**
 <br>
 I'm always looking for new opportunities to grow and collaborate. Feel free to explore my projects and get in touch in you'd like to discuss potential collaborations or cybersecurity solutions.
 
