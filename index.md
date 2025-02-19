@@ -11,10 +11,11 @@ I'm James, passionate about technology and problem-solving, with expertise in Cy
 <br><br>
 I help businesses secure their digital infrastructure and mitigate risks through:
 
-    - Network & Security Audits
-    - Security Monitoring with SIEM tools
-    - Incident Response & Analysis
-    - Cybersecurity Automation with Python
+- Network & Security Audits
+- Security Monitoring with SIEM Tools
+- Incident Response & Analysis
+- Cybersecurity Automation with Python
+
 <br><br>
 
 I’ve honed my skills through hands-on projects, certification programs, and real-world experience working with tools like Wireshark, Splunk, Suricata, and Python. As I continue my journey, I aim to contribute to the growing field of Cybersecurity by taking on roles such as Security Analyst and SOC Analyst.
