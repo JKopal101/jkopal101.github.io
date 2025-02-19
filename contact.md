@@ -17,5 +17,9 @@ Get in touch with me!
 <!-- Instagram -->
 <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
+<!-- Email -->
+<a href="mailto:jkopal101@gmail.com.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 
