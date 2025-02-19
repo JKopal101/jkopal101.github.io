@@ -32,8 +32,8 @@ Here are some of the projects I’ve worked on...
   </thead>
   <tbody>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:1px solid #555;">`INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad`, `Risk Evaluation`, `Compliance Review`</td>
-      <td style="padding:12px; border:1px solid #555;"><a href="https://github.com/JKopal101/Conducting-a-Security-Audit" style="color:white;">Conducting a Security Audit</a></td>
+      <td style="padding:12px; border:3px solid #555;">`INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad`, `Risk Evaluation`, `Compliance Review`</td>
+      <td style="padding:12px; border:3px solid #555;"><a href="https://github.com/JKopal101/Conducting-a-Security-Audit" style="color:white;">Conducting a Security Audit</a></td>
     </tr>
     <!-- Repeat for other rows -->
   </tbody>
