@@ -14,7 +14,8 @@ Hello! I'm **James**, a cybersecurity enthusiast passionate about digital securi
 I believe in a **proactive approach** to Cybersecurity—focusing on **threat detection, incident response, and secure system architecture**. My goal is to help organizations strengthen their security posture while continuously learning and evolving in this dynamic field.
 <br><br>
 
-### **Skills & Interest** <br>  
+### **Skills & Interest** 
+<br>  
  🔹 **Security Auditing & Compliance** (NIST, SOC2, ISO 27001)  
  🔹 **SIEM & Log Analysis** (Splunk, Elastic Stack, Wazuh)  
  🔹 **Security Automation** (SOAR, Python Scripting, TheHive)  
