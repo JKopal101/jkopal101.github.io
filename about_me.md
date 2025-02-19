@@ -16,7 +16,7 @@ I believe in a **proactive approach** to cybersecurity—focusing on **threat de
 - 🔹 **Security Automation** (SOAR, Python Scripting, TheHive)  
 - 🔹 **Incident Response & Threat Hunting**  
 <br>
-## More About Me  
+ 
 Beyond cybersecurity, I enjoy **hill walking, snowboarding, boxing, and playing the piano**. I'm always open to collaborating on security-related projects, so feel free to connect!
 
 
