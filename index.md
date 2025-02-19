@@ -1,22 +1,21 @@
 ---
 layout: page
-title: Home
+title: 
 ---
 
 # Welcome to My Portfolio
 <br><br>
 I'm James, passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. Self-taught experience in Network Security, Threat Intelligence, Threat Hunting. I specialize in identifying threats, analysing vulerabilities and automating Cybersecurity tasks to ensure systems remain secure and resilient. 
-
-## Featured Projects  
+<br><br>
+### Featured Projects  
 Here are some of my key cybersecurity projects:  
 
 - **[Conducting a Security Audit](https://github.com/JKopal101/Conducting-a-Security-Audit)** – A security assessment following NIST guidelines.  
 - **[Retail Cyber Defence Strategy](https://github.com/JKopal101/Retail-Cyber-Defence-Strategy)** – Implementing secure frameworks for retail.  
 - **[Detection Lab](https://github.com/JKopal101/Detection-Lab)** – SIEM implementation and log analysis.  
 
-## 🏅 Certifications & Courses 
-
-### **Completed Training**
+### 🏅 Certifications & Courses 
+<br><br>
 
 - **[TCM Security: Security Operations (SOC) 101](https://tcm-sec.com/)**  
   
@@ -31,12 +30,11 @@ Here are some of my key cybersecurity projects:
 
   
 ### **Planned Certifications**
+<br><br>
 - **CompTIA Security+**, **CompTIA Network+**, **CISSP**  
 - **ISO 27001 Lead Implementer**  
 
 My focus is on developing expertise in threat detection, incident response, and security policy implementation while continuing to work towards certifications.
-
-<br><br>
 
 I’ve honed my skills through hands-on projects, certification programs, and real-world experience working with tools like Wireshark, Splunk, Suricata, and Python. As I continue my journey, I aim to contribute to the growing field of Cybersecurity by taking on roles such as Security Analyst and SOC Analyst.
 
@@ -48,24 +46,24 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 
 # 🛡 Key Tools
 
-### **Network:**
+#### **Network:**
 - `tcpdump`, `Wireshark`, `Nmap`
 
-### **Endpoint Protection:**
+#### **Endpoint Protection:**
 - `Microsoft Defender for Endpoint`, `Velociraptor`
 
-### **SIEM:**
+#### **SIEM:**
 - `Splunk`, `Elastic`
 
-### **Governance, Risk, and Compliance (GRC):**
+#### **Governance, Risk, and Compliance (GRC):**
 - **Tools:** `RiskWatch`, `ISO Compliance Tracker`  
 - **Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
 
 ---
 
 
-## 🌐 Let's Connect
-<br><br>
+### 🌐 Let's Connect
+<br>
 I'm always looking for new opportunities to grow and collaborate. Feel free to explore my projects and get in touch in you'd like to discuss potential collaborations or cybersecurity solutions.
 
 ---
