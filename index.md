@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Cybersecurity Journey
+title: Exploring Cybersecurity & Digital Defense
 ---
 
 
