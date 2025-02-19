@@ -15,10 +15,10 @@ I believe in a **proactive approach** to Cybersecurity—focusing on **threat de
 <br><br>
 
 ### **Skills & Interest** <br>  
-- 🔹 **Security Auditing & Compliance** (NIST, SOC2, ISO 27001)  
-- 🔹 **SIEM & Log Analysis** (Splunk, Elastic Stack, Wazuh)  
-- 🔹 **Security Automation** (SOAR, Python Scripting, TheHive)  
-- 🔹 **Incident Response & Threat Hunting**  
+ 🔹 **Security Auditing & Compliance** (NIST, SOC2, ISO 27001)  
+ 🔹 **SIEM & Log Analysis** (Splunk, Elastic Stack, Wazuh)  
+ 🔹 **Security Automation** (SOAR, Python Scripting, TheHive)  
+ 🔹 **Incident Response & Threat Hunting**  
 <br>
  
 Beyond cybersecurity, I enjoy **hill walking, snowboarding, boxing, and playing the piano**. I'm always open to collaborating on security-related projects, so feel free to connect!
