@@ -1,55 +1,40 @@
 ---
 layout: page
-title: My Portfolio Website
+title: Home
 ---
 
-# Hello, I'm James!
+# Welcome to My Portfolio
+<br><br>
+I'm James, passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. Self-taught experience in Network Security, Threat Intelligence, Threat Hunting. I specialize in identifying threats, analysing vulerabilities and automating Cybersecurity tasks to ensure systems remain secure and resilient. 
 
-I'm passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. I'm currently advancing my skills to transition into a role in Cybersecurity.
+# What I Do
+<br><br>
+I help businesses secure their digital infrastructure and mitigate risks through:
 
-<nav>
-  <ul>
-    <li><a href="#home">Home</a></li>
-    <li><a href="#about">About Me</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ul>
-</nav>
+    - Network & Security Audits
+    - Security Monitoring with SIEM tools
+    - Incident Response & Analysis
+    - Cybersecurity Automation with Python
+<br><br>
 
-## 🎯 Objective
-
-My journey in computer science has led to a passion for Cybersecurity. I am eager to transition into the field, specifically aiming for roles such as:  
-
-- SOC Analyst (Tier 1)  
-- IT Security Analyst  
-- Cyber Defence Analyst  
-- Information Security Analyst  
-- GRC Specialist  
+I’ve honed my skills through hands-on projects, certification programs, and real-world experience working with tools like Wireshark, Splunk, Suricata, and Python. As I continue my journey, I aim to contribute to the growing field of Cybersecurity by taking on roles such as Security Analyst and SOC Analyst.
 
 
-My focus is on developing expertise in threat detection, incident response, and security policy implementation while working toward certifications like **CompTIA Security+**, **CompTIA Network+**, and **CISSP**.
+# Certifications
+<br><br>
 
-## 🛠 Skills
+I’ve earned certifications in cybersecurity and IT support, including:
 
+    - BrainStation Cybersecurity Course
+    - Google Cybersecurity Professional Certificate
+    - CompTIA Security+ (In progress)
 
-| **Skill**                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|`INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad`, `Risk Evaluation`, `Compliance Review`           | <a href= https://github.com/JKopal101/Conducting-a-Security-Audit> Conducting a Security Audit </a>|
-|`NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `Zero-Trust Architectures`, `Vulnerability Management,` `Access Control` | <a href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy">Retail Cyber Defence Strategy</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-
-
+My focus is on developing expertise in threat detection, incident response, and security policy implementation while continuing to work towards certifications.
 
 ---
 
 
-## 🛡 Tools
+# 🛡 Key Tools
 
 ### **Network:**
 - `tcpdump`, `Wireshark`, `Nmap`
@@ -88,25 +73,12 @@ My focus is on developing expertise in threat detection, incident response, and 
 - **ISO 27001 Lead Implementer**  
 
 
-## 📂 Projects
 
-- <a href= https://github.com/JKopal101/Conducting-a-Security-Audit> Conducting a Security Audit </a>
-- Retail Cyber Defence Strategy
-- Detection Lab
-- GRC Framework Lab
-- SOC Automation Project
-- Security Audit
+## 🌐 Let's Connect
+<br><br>
+I'm always looking for new opportunities to grow and collaborate. Feel free to explore my projects and get in touch in you'd like to discuss potential collaborations or cybersecurity solutions for your business. 
 
 ---
 
-## 🌐 Connect with Me
-
-- **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/yourprofile)  
-- **Email:** [Your Email](mailto:your.email@example.com)  
-- **Website:** [Your Portfolio Website URL](https://yourwebsite.com)  
-
----
-
-Thanks for stopping by! I'm always open to connecting with fellow Cybersecurity professionals and discussing new opportunities.
 
 
