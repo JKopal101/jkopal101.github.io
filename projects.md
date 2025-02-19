@@ -7,7 +7,7 @@ permalink: /projects/
 
 ### My Projects
 <br>
-I’ve worked on a variety of projects in the Cybersecurity and in the IT space, focusing on areas such as risk management, incident response, network security, threat hunting & intelligence and automation. Below is a list of some of the key projects I’ve worked on. Each project includes a link to its GitHub repository, where you can find the code, documentation, and detailed explanations.
+I’ve worked on a variety of projects in the Cybersecurity and IT space, focusing on areas such as risk management, incident response, network security, threat hunting & intelligence and automation. Below is a list of some of the key projects I’ve worked on. Each project includes a link to its GitHub repository, where you can find the code, documentation, and detailed explanations.
 
 <br><br>
 
