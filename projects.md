@@ -32,93 +32,13 @@ Here are some of the projects I’ve worked on...
   </thead>
   <tbody>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:3px solid #545;">`INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad`, `Risk Evaluation`, `Compliance Review`</td>
-      <td style="padding:12px; border:3px solid #545;"><a href="https://github.com/JKopal101/Conducting-a-Security-Audit" style="color:white;">Conducting a Security Audit</a></td>
+      <td style="padding:12px; border:5px solid #545;">`INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad`, `Risk Evaluation`, `Compliance Review`</td>
+      <td style="padding:12px; border:5px solid #545;"><a href="https://github.com/JKopal101/Conducting-a-Security-Audit" style="color:white;">Conducting a Security Audit</a></td>
     </tr>
     <!-- Repeat for other rows -->
   </tbody>
 </table>
 
-
-### My Projects
-
-I’ve worked on a variety of projects in cybersecurity and IT, focusing on areas such as risk management, incident response, network security, and automation. Below is a list of key projects with links to their GitHub repositories.
-
-<style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        background-color: #333;
-        color: #fff;
-        border: 2px solid #555;
-    }
-    th, td {
-        padding: 12px;
-        border: 2px solid #555;
-    }
-    th {
-        background-color: #444;
-        font-size: 18px;
-        text-align: left;
-    }
-    tr:nth-child(even) {
-        background-color: #555;
-    }
-    tr:hover {
-        background-color: #666;
-    }
-    a {
-        color: #4CAF50; 
-        text-decoration: none;
-        font-weight: bold;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-</style>
-
-<table>
-    <thead>
-        <tr>
-            <th>Skill</th>
-            <th>Associated Project</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>INFOSEC, NIST Risk Management Framework, NIST Cybersecurity Framework, Incident Response Playbooks, CIA triad, Risk Evaluation, Compliance Review</td>
-            <td><a href="https://github.com/JKopal101/Conducting-a-Security-Audit">Conducting a Security Audit</a></td>
-        </tr>
-        <tr>
-            <td>NIST Risk Management Framework, NIST Cybersecurity Framework, Incident Response Playbooks, Zero-Trust Architectures, Vulnerability Management, Access Control</td>
-            <td><a href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy">Retail Cyber Defence Strategy</a></td>
-        </tr>
-        <tr>
-            <td>SIEM Implementation and Log Analysis</td>
-            <td><a href="https://google.com">Detection Lab</a></td>
-        </tr>
-        <tr>
-            <td>Network Traffic Monitoring and Attack Detection</td>
-            <td><a href="https://google.com">Detection Lab</a></td>
-        </tr>
-        <tr>
-            <td>Security Automation with Shuffle SOAR</td>
-            <td>SOC Automation Lab</td>
-        </tr>
-        <tr>
-            <td>Incident Response Planning and Execution</td>
-            <td>SOC Automation Lab</td>
-        </tr>
-        <tr>
-            <td>Case Management with TheHive</td>
-            <td>SOC Automation Lab</td>
-        </tr>
-        <tr>
-            <td>Scripting and Automation for Threat Mitigation</td>
-            <td>SOC Automation Lab</td>
-        </tr>
-    </tbody>
-</table>
 
 
 
