@@ -20,3 +20,35 @@ Here are some of the projects I’ve worked on...
 | [6](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) - Tcpdump & Wireshark | `Packet Analyzer` | 
 | [7](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
 | [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+
+
+
+| **Skill**                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|`INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad`, `Risk Evaluation`, `Compliance Review`           | <a href= https://github.com/JKopal101/Conducting-a-Security-Audit> Conducting a Security Audit </a>|
+|`NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `Zero-Trust Architectures`, `Vulnerability Management,` `Access Control` | <a href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy">Retail Cyber Defence Strategy</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
