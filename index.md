@@ -2,7 +2,7 @@
 layout: page
 title: Exploring Cybersecurity & Digital Defense
 ---
-![Cybersecurity Portfolio](https://your-image-url.com/banner.jpg)
+![Cybersecurity Portfolio](assets/A dark hacker-style banner featuring a futuristic cybersecurity theme.webp)
 
 
 <br><br>
