@@ -8,5 +8,6 @@ permalink: /contact/
 Get in touch with me!
 
 
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-Contact_Page-blue?style=for-the-badge)](/contact)
+<a href="/contact" style="display:inline-block;padding:10px 20px;background-color:#007bff;color:white;text-decoration:none;border-radius:5px;">Let's Connect</a>
+
 
