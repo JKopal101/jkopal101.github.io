@@ -5,9 +5,6 @@ permalink: /about_me/
 ---
 
 # About Me
-Welcome to my portfolio site!
-
-# About Me
 
 ## Hello, I'm James 👋
 
