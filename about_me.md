@@ -4,16 +4,17 @@ title: About Me
 permalink: /about_me/
 ---
 
-### About Me
+### **About Me**
 <br>
 Hello! I'm **James**, a cybersecurity enthusiast passionate about digital security and ethical hacking. My journey started with an interest in **Linux and scripting**, which led me to explore **cybersecurity frameworks, risk management, and security automation**. I continuously expand my knowledge to stay ahead of evolving cyber threats.
-<br><br>
 <br>
-### My Approach
+
+### **My Approach**
 <br>
 I believe in a **proactive approach** to Cybersecurity—focusing on **threat detection, incident response, and secure system architecture**. My goal is to help organizations strengthen their security posture while continuously learning and evolving in this dynamic field.
 <br><br>
-### Skills & Interest<br>  
+
+### **Skills & Interest** <br>  
 - 🔹 **Security Auditing & Compliance** (NIST, SOC2, ISO 27001)  
 - 🔹 **SIEM & Log Analysis** (Splunk, Elastic Stack, Wazuh)  
 - 🔹 **Security Automation** (SOAR, Python Scripting, TheHive)  
