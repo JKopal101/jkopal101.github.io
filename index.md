@@ -3,7 +3,6 @@ layout: page
 title: Exploring Cybersecurity & Digital Defense
 ---
 
-
 <br><br>
 I'm James, passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. Self-taught experience in Network Security, Threat Intelligence, Threat Hunting. I specialize in identifying threats, analysing vulerabilities and automating Cybersecurity tasks to ensure systems remain secure and resilient. 
 <br><br>
