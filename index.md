@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Cybersecurity Journey
+title: 
 ---
 
 # My Cybersecurity Journey
