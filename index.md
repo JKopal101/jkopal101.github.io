@@ -14,11 +14,25 @@ Here are some of my key cybersecurity projects:
 - **[Retail Cyber Defence Strategy](https://github.com/JKopal101/Retail-Cyber-Defence-Strategy)** – Implementing secure frameworks for retail.  
 - **[Detection Lab](https://github.com/JKopal101/Detection-Lab)** – SIEM implementation and log analysis.  
 
-## Recent Achievements  
+## 🏅 Certifications & Courses 
 
-- ✅ Completed **TCM Security: Security Operations (SOC) 101**  
-- ✅ Earned **Google Cybersecurity Certificate** via Coursera  
-- ✅ Graduated from **BrainStation Cybersecurity Program**  
+### **Completed Training**
+
+- **[TCM Security: Security Operations (SOC) 101](https://tcm-sec.com/)**  
+  
+- **[Google Cybersecurity Certificate (Coursera)](https://www.coursera.org/)**  
+  - Comprehensive introduction to cybersecurity concepts, tools, and best practices.  
+  - Topics covered: Security architecture, risk management, and cloud security fundamentals.  
+
+- **[BrainStation Cybersecurity Program - Capstone Project](https://brainstation.io/)**  
+  - Conducted a NIST-based risk assessment, identifying vulnerabilities in data security and access control.
+  - Recommended encryption, MFA, SIEM tools, and Zero Trust Architecture to mitigate risks.
+  - Developed an Incident Response Plan (IRP) and security training to enhance resilience.
+
+  
+### **Planned Certifications**
+- **CompTIA Security+**, **CompTIA Network+**, **CISSP**  
+- **ISO 27001 Lead Implementer**  
 
 My focus is on developing expertise in threat detection, incident response, and security policy implementation while continuing to work towards certifications.
 
@@ -48,28 +62,6 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 - **Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
 
 ---
-
-## 🏅 Certifications & Courses
-
-### **Completed Training**
-
-- **[TCM Security: Security Operations (SOC) 101](https://tcm-sec.com/)**  
-  
-
-- **[Google Cybersecurity Certificate (Coursera)](https://www.coursera.org/)**  
-  - Comprehensive introduction to cybersecurity concepts, tools, and best practices.  
-  - Topics covered: Security architecture, risk management, and cloud security fundamentals.  
-
-- **[BrainStation Cybersecurity Program - Capstone Project](https://brainstation.io/)**  
-  - Conducted a NIST-based risk assessment, identifying vulnerabilities in data security and access control.
-  - Recommended encryption, MFA, SIEM tools, and Zero Trust Architecture to mitigate risks.
-  - Developed an Incident Response Plan (IRP) and security training to enhance resilience.
-
-  
-### **Planned Certifications**
-- **CompTIA Security+**, **CompTIA Network+**, **CISSP**  
-- **ISO 27001 Lead Implementer**  
-
 
 
 ## 🌐 Let's Connect
