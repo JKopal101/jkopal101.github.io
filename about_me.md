@@ -8,6 +8,7 @@ permalink: /about_me/
 <br>
 Hello! I'm **James**, a cybersecurity enthusiast passionate about digital security and ethical hacking. My journey started with an interest in **Linux and scripting**, which led me to explore **cybersecurity frameworks, risk management, and security automation**. I continuously expand my knowledge to stay ahead of evolving cyber threats.
 <br><br>
+<br>
 ### My Approach
 <br>
 I believe in a **proactive approach** to Cybersecurity—focusing on **threat detection, incident response, and secure system architecture**. My goal is to help organizations strengthen their security posture while continuously learning and evolving in this dynamic field.
