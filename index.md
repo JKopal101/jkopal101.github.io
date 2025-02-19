@@ -63,6 +63,6 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 I'm always looking for new opportunities to grow and collaborate. Feel free to explore my projects and get in touch if you'd like to discuss potential collaborations or Cybersecurity solutions.
 
 ---
-
+[Contact](contact.md)  
 
 
