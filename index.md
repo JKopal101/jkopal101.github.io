@@ -30,7 +30,8 @@ Here are some of my key cybersecurity projects:
   - Developed an Incident Response Plan (IRP) and security training to enhance resilience.
 
   <br>
-### Planned Certifications
+
+### **Planned Certifications** 
 
 - **CompTIA Security+**, **CompTIA Network+**, **CISSP**  
 - **ISO 27001 Lead Implementer**  
@@ -42,7 +43,7 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 ---
 
 ### **Key Tools**
-
+<br><br>
 #### **Network**:
 - `tcpdump`, `Wireshark`, `Nmap`
 
@@ -55,7 +56,7 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 #### **Governance, Risk, and Compliance (GRC)**:
 - **Tools:** `RiskWatch`, `ISO Compliance Tracker`  
 - **Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
-
+<br>
 ---
 
 ### 🌐 **Let's Connect**
