@@ -39,7 +39,7 @@ Here are some of my key cybersecurity projects:
 My focus is on developing expertise in threat detection, incident response, and security policy implementation while continuing to work towards certifications.
 
 I’ve honed my skills through hands-on projects, certification programs, and real-world experience working with tools like Wireshark, Splunk, Suricata, and Python. As I continue my journey, I aim to contribute to the growing field of Cybersecurity by taking on roles such as Security Analyst and SOC Analyst.
-
+<br>
 
 ### **Key Tools**
 <br>
