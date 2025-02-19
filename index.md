@@ -7,33 +7,30 @@ title: Home
 <br><br>
 I'm James, passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. Self-taught experience in Network Security, Threat Intelligence, Threat Hunting. I specialize in identifying threats, analysing vulerabilities and automating Cybersecurity tasks to ensure systems remain secure and resilient. 
 
-# What I Do
-<br><br>
-I help businesses secure their digital infrastructure and mitigate risks through:
+## Featured Projects  
+Here are some of my key cybersecurity projects:  
 
-- Network & Security Audits
-- Security Monitoring with SIEM Tools
-- Incident Response & Analysis
-- Cybersecurity Automation with Python
+- **[Conducting a Security Audit](https://github.com/JKopal101/Conducting-a-Security-Audit)** – A security assessment following NIST guidelines.  
+- **[Retail Cyber Defence Strategy](https://github.com/JKopal101/Retail-Cyber-Defence-Strategy)** – Implementing secure frameworks for retail.  
+- **[Detection Lab](https://github.com/JKopal101/Detection-Lab)** – SIEM implementation and log analysis.  
+
+## Recent Achievements  
+
+- ✅ Completed **TCM Security: Security Operations (SOC) 101**  
+- ✅ Earned **Google Cybersecurity Certificate** via Coursera  
+- ✅ Graduated from **BrainStation Cybersecurity Program**  
+
+My focus is on developing expertise in threat detection, incident response, and security policy implementation while continuing to work towards certifications.
 
 <br><br>
 
 I’ve honed my skills through hands-on projects, certification programs, and real-world experience working with tools like Wireshark, Splunk, Suricata, and Python. As I continue my journey, I aim to contribute to the growing field of Cybersecurity by taking on roles such as Security Analyst and SOC Analyst.
 
 
-# Certifications
 <br><br>
 
-I’ve earned certifications in cybersecurity and IT support, including:
-
-    - BrainStation Cybersecurity Course
-    - Google Cybersecurity Professional Certificate
-    - CompTIA Security+ (In progress)
-
-My focus is on developing expertise in threat detection, incident response, and security policy implementation while continuing to work towards certifications.
 
 ---
-
 
 # 🛡 Key Tools
 
@@ -77,7 +74,7 @@ My focus is on developing expertise in threat detection, incident response, and 
 
 ## 🌐 Let's Connect
 <br><br>
-I'm always looking for new opportunities to grow and collaborate. Feel free to explore my projects and get in touch in you'd like to discuss potential collaborations or cybersecurity solutions for your business. 
+I'm always looking for new opportunities to grow and collaborate. Feel free to explore my projects and get in touch in you'd like to discuss potential collaborations or cybersecurity solutions.
 
 ---
 
