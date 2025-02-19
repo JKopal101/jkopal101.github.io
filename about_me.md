@@ -4,6 +4,7 @@ title: About Me
 permalink: /about_me/
 ---
 
+# About Me
 
 Hello! I'm **James**, a cybersecurity enthusiast passionate about digital security and ethical hacking. My journey started with an interest in **Linux and scripting**, which led me to explore **cybersecurity frameworks, risk management, and security automation**. I continuously expand my knowledge to stay ahead of evolving cyber threats.
 
