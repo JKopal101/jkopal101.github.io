@@ -23,6 +23,7 @@ For me, the transition from Civil Engineering to Cybersecurity is driven by my g
 When I pursued Civil Engineering, I was drawn to the idea of building systems that impact communities, but over time, I realized that my interests were shifting toward the technological side, especially in areas like data protection and digital security. 
 
 I began learning cybersecurity through self-study, online courses, and hands-on labs. Along the way, I gained experience in:
+<br>
   🔹 **Network Security** – Understanding protocols, monitoring traffic, and detecting anomalies.  
   🔹 **Threat Analysis** – Learning how attackers operate and how to defend against them.  
   🔹 **SIEM & Incident Response** – Using tools like Splunk and Suricata to analyze security events.  
