@@ -6,7 +6,8 @@ permalink: /about_me/
 
 ### **About Me**
 
-<img src="/assets/your-image.png" width="150px" alt="Your Name">
+<br>
+<img src="assets/IMG_20220307_112617.jpg" width="150px" style="border-radius: 50%;" alt="James">
 
 <br>
 From a young age, I was always fascinated by technology and how things worked. This curiosity led me to explore different areas of IT, from troubleshooting hardware to experimenting with software. However, it was **Cybersecurity** that truly captured my interest—the idea of protecting systems, detecting threats, and staying ahead of attackers.  
