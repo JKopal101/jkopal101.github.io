@@ -40,10 +40,9 @@ My focus is on developing expertise in threat detection, incident response, and 
 
 I’ve honed my skills through hands-on projects, certification programs, and real-world experience working with tools like Wireshark, Splunk, Suricata, and Python. As I continue my journey, I aim to contribute to the growing field of Cybersecurity by taking on roles such as Security Analyst and SOC Analyst.
 
----
 
 ### **Key Tools**
-<br><br>
+
 #### **Network**:
 - `tcpdump`, `Wireshark`, `Nmap`
 
@@ -61,7 +60,7 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 
 ### 🌐 **Let's Connect**
 <br>
-I'm always looking for new opportunities to grow and collaborate. Feel free to explore my projects and get in touch in you'd like to discuss potential collaborations or cybersecurity solutions.
+I'm always looking for new opportunities to grow and collaborate. Feel free to explore my projects and get in touch if you'd like to discuss potential collaborations or Cybersecurity solutions.
 
 ---
 
