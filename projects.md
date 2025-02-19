@@ -45,6 +45,10 @@ I’ve worked on a variety of projects in the cybersecurity and IT space, focusi
             <td style="padding:12px; border:5px solid #545;">`NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `Zero-Trust Architectures`, `Vulnerability Management`, `Access Control`</td>
       <td style="padding:12px; border:5px solid #545;"><a href="https://github.com/JKopal101/Conducting-a-Security-Audit" style="color:white;">Retail Cyber Defence Strategy</a></td>
     </tr>
+    <tr style="background-color:#555;">
+      <td style="padding:12px; border:5px solid #545;">`NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `Zero-Trust Architectures`, `Vulnerability Management`, `Access Control`</td>
+      <td style="padding:12px; border:5px solid #545;"><a href="https://github.com/JKopal101/Conducting-a-Security-Audit" style="color:white;">Retail Cyber Defence Strategy</a></td>
+    </tr>
   </tbody>
 </table>
 
