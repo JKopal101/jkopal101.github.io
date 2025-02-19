@@ -26,8 +26,8 @@ Here are some of the projects I’ve worked on...
 <table style="width:100%; background-color:#333; color:#fff; border-collapse:collapse;">
   <thead>
     <tr style="background-color:#444;">
-      <th style="padding:12px, font-size: 18px;">**Skill**</th>
-      <th style="padding:12px, font-size: 18px;">**Associated Project**</th>
+      <th style="padding:12px, font-size: 24px;">**Skill**</th>
+      <th style="padding:12px, font-size: 24px;">**Associated Project**</th>
     </tr>
   </thead>
   <tbody>
