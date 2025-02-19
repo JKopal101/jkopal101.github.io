@@ -15,7 +15,7 @@ I believe in a **proactive approach** to Cybersecurity—focusing on **threat de
 <br><br>
 
 ### **Skills & Interest** 
-<br>  
+  
  🔹 **Security Auditing & Compliance** (NIST, SOC2, ISO 27001)  
  🔹 **SIEM & Log Analysis** (Splunk, Elastic Stack, Wazuh)  
  🔹 **Security Automation** (SOAR, Python Scripting, TheHive)  
