@@ -13,7 +13,6 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
 
 
 
-
 <table style="width:100%; background-color:#333; color:#fff; border-collapse:collapse; border:1px solid #555;">
   <thead>
     <tr style="background-color:#444;">
