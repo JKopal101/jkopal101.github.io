@@ -13,6 +13,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
 
 
 
+
 <table style="width:100%; background-color:#333; color:#fff; border-collapse:collapse; border:1px solid #555;">
   <thead>
     <tr style="background-color:#444;">
@@ -47,6 +48,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;"> Vulnerability Assessment Tools (Tenable), Cloud Computing (Azure VMachines), 
         PowerShell, BASH Scrips, Vulnerability Prioritization, Policy Development 
       </td>
+    </tr>  
       <td style="padding:12px; border:5px solid #545;">
         <a href="https://github.com/JKopal101/vulnerability-management-project" style="color:white;">Vulnerability Management Project</a>
       </td>
