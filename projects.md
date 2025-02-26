@@ -47,11 +47,11 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;"> Vulnerability Assessment Tools (Tenable), Cloud Computing (Azure VMachines), 
         PowerShell, BASH Scrips, Vulnerability Prioritization, Policy Development 
-      </td>
-    </tr>  
+      </td> 
       <td style="padding:12px; border:5px solid #545;">
         <a href="https://github.com/JKopal101/vulnerability-management-project" style="color:white;">Vulnerability Management Project</a>
       </td>
+    </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Incident Response Planning and Execution</td>
       <td style="padding:12px; border:5px solid #545;">
