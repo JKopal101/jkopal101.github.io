@@ -53,9 +53,10 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       </td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Incident Response Planning and Execution</td>
+      <td style="padding:12px; border:5px solid #545;">Threat Hunting, Virtual Machines (Azure), Endpoint Protection (MS Defender), KQL,
+        Tor Browser </td>
       <td style="padding:12px; border:5px solid #545;">
-        <a href="https://github.com/JKopal101/SOC-Automation-Lab" style="color:white;">SOC Automation Lab</a>
+        <a href="https://github.com/JKopal101/SOC-Automation-Lab" style="color:white;">Threat Hunting Scenario - Tor</a>
       </td>
     </tr>
     <tr style="background-color:#555;">
