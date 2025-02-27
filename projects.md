@@ -75,7 +75,9 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">SIEM, Cloud Computing, Log Analysis, KGL Queries, Incident Response
       Threat Intelligence, Threat Hunting</td>
-      <td style="padding:12px; border:5px solid #545;">Microsoft Azure SIEM with Log Ingestion</td>
+      <td style="padding:12px; border:5px solid #545;">
+        <a href="https://github.com/JKopal101/ms-azure-with-siem" style="color:white;">Microsoft Azure SIEM with Log Ingestion</a>
+        </td>
     </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Sample Skills, Sample Skill 1</td>
