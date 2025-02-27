@@ -78,8 +78,10 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;">Microsoft Azure SIEM with Log Ingestion</td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Linux, Network Traffic Analysis, Log Investigation</td>
-      <td style="padding:12px; border:5px solid #545;">Network Scanning with Nmap</td>
+      <td style="padding:12px; border:5px solid #545;">Sample Skills, Sample Skill 1</td>
+      <td style="padding:12px; border:5px solid #545;">
+        <a href="https://github.com/JKopal101/honeypot--and-canary-token-monitoring" style="color:white;">Honeypot and Canary Token Monitoring</a>
+      </td>
     </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Vulnerability Management, Log Analysis, Incident Response</td>
@@ -90,8 +92,8 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;">Vulnerability Assessment and Log Analysis Lab (TCM Security)</td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Sample Skill 1, Sample Skill 2, Sample Skill 3</td>
-      <td style="padding:12px; border:5px solid #545;">Honeypot and Canary Token Monitoring</td>
+      <td style="padding:12px; border:5px solid #545;">Linux, Network Traffic Analysis, Log Investigation</td>
+      <td style="padding:12px; border:5px solid #545;">Network Scanning with Nmap</td>
     </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Sample Project</td>
