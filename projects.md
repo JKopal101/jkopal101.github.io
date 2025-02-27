@@ -73,51 +73,52 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       </td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Case Management with TheHive</td>
-      <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
+      <td style="padding:12px; border:5px solid #545;">SIEM, Cloud Computing, Log Analysis, KGL Queries, Incident Response
+      Threat Intelligence, Threat Hunting</td>
+      <td style="padding:12px; border:5px solid #545;">Microsoft Azure SIEM with Log Ingestion</td>
     </tr>
     <tr style="background-color:#555;">
+      <td style="padding:12px; border:5px solid #545;">Linux, Network Traffic Analysis, Log Investigation</td>
       <td style="padding:12px; border:5px solid #545;">Network Scanning with Nmap</td>
-      <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
+      <td style="padding:12px; border:5px solid #545;">Vulnerability Management, Log Analysis, Incident Response</td>
       <td style="padding:12px; border:5px solid #545;">Vulnerability Scanning using Nessus</td>
-      <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Detecting and Analysing Network Traffic with Suricata</td>
-      <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
-    </tr>
-    <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Honeypot and Canary Token Monitoring</td>
-      <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
-    </tr>
-    <tr style="background-color:#555;">
+      <td style="padding:12px; border:5px solid #545;">Log Investigation & Analysis, Incident Response</td>
       <td style="padding:12px; border:5px solid #545;">Vulnerability Assessment and Log Analysis Lab (TCM Security)</td>
+    </tr>
+    <tr style="background-color:#555;">
+      <td style="padding:12px; border:5px solid #545;">Sample Skill 1, Sample Skill 2, Sample Skill 3</td>
+      <td style="padding:12px; border:5px solid #545;">Honeypot and Canary Token Monitoring</td>
+    </tr>
+    <tr style="background-color:#555;">
+      <td style="padding:12px; border:5px solid #545;">Sample Project</td>
       <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">My BrainStation Capstone Consultant (Retail Case Study) Project</td>
+      <td style="padding:12px; border:5px solid #545;">Sample Project</td>
       <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Using Cisco Packet Tracer</td>
+      <td style="padding:12px; border:5px solid #545;">Sample Project</td>
       <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Microsoft Azure SIEM Setup and Log Ingestion with MS Sentinel</td>
+      <td style="padding:12px; border:5px solid #545;">Sample Project</td>
       <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Threat Intelligence Gathering and Threat Hunting with MS Sentinel</td>
+      <td style="padding:12px; border:5px solid #545;">Sample Project</td>
       <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Vulnerability Management with Tenable</td>
+      <td style="padding:12px; border:5px solid #545;">Sample Project</td>
       <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Threat Hunting, SecOps and Incident Response</td>
+      <td style="padding:12px; border:5px solid #545;">Sample project</td>
       <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
   </tbody>
