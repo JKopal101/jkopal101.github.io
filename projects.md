@@ -60,9 +60,9 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       </td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Case Management with TheHive</td>
+      <td style="padding:12px; border:5px solid #545;">Header Analysis, Threat Intelligence (Virus Total, URLscan DomainTools), Python, Threat Investigation, Incident Response, Report Writing </td>
       <td style="padding:12px; border:5px solid #545;">
-        <a href="https://github.com/JKopal101/SOC-Automation-Lab" style="color:white;">SOC Automation Lab</a>
+        <a href="https://github.com/JKopal101/email-phishing-analysis" style="color:white;">Email Phishing Analysis</a>
       </td>
     </tr>
     <tr style="background-color:#555;">
@@ -72,7 +72,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       </td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Email Phishing Analysis</td>
+      <td style="padding:12px; border:5px solid #545;">Case Management with TheHive</td>
       <td style="padding:12px; border:5px solid #545;">Coming Soon</td>
     </tr>
     <tr style="background-color:#555;">
