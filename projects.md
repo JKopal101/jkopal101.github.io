@@ -66,9 +66,10 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       </td>
     </tr>
     <tr style="background-color:#555;">
-      <td style="padding:12px; border:5px solid #545;">Scripting and Automation for Threat Mitigation</td>
+      <td style="padding:12px; border:5px solid #545;">Network Traffic Analysis, IDS/IPS, Rule Configuration, 
+        Threat Hunting, Log Analysis, SIEM, Linux </td>
       <td style="padding:12px; border:5px solid #545;">
-        <a href="https://github.com/JKopal101/SOC-Automation-Lab" style="color:white;">SOC Automation Lab</a>
+        <a href="https://github.com/JKopal101/network-traffic-with-suricata" style="color:white;">Network Traffic with Suricata</a>
       </td>
     </tr>
     <tr style="background-color:#555;">
