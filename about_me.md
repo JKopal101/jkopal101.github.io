@@ -32,7 +32,7 @@ I began learning cybersecurity through self-study, online courses, and hands-on 
 
 ### **My Goals**  
 
-I am currently working toward **[certifications]** and continuously improving my skills through real-world projects. My ultimate goal is to become a **SOC Analyst** and contribute to a safer digital world. I am also interested in Pen Testing and enjoy purple teaming, as well as exploring the offensive side through Red Team activities.
+I am currently working towards **CompTIA Security+** and continuously improving my skills through real-world projects. My ultimate goal is to become a **SOC Analyst** and contribute to a safer digital world. I am also interested in Pen Testing and enjoy purple teaming, as well as exploring the offensive side through Red Team activities.
 
 🚀 *Cybersecurity is an ever-evolving field, and I’m excited to grow with it!* 
 
