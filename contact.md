@@ -23,7 +23,7 @@ Get in touch with me!
 
 <br>
 
-Looking for my resume? You can find it here:
+Looking for my Resume/CV? You can find it here:
 <br><br>
 
 [![Resume](https://img.shields.io/badge/-CV/Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.google.com/document/d/1F_LVblUTnLC8-tz-HEI1capla8Y_Z3qq/edit)
