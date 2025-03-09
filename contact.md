@@ -21,6 +21,7 @@ Get in touch with me!
 <a href="mailto:jkopal101@gmail.com.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+
 ## 📄 Resume
 
 Looking for my resume? You can find it here:
