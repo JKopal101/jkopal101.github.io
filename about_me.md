@@ -39,6 +39,8 @@ I am currently working towards **CompTIA Security+** and continuously improving 
 
 Beyond Cybersecurity, I enjoy **hill walking, snowboarding, boxing, and playing the piano**. I'm always open to collaborating on security-related projects, so feel free to connect!
 
+---
+[Contact](contact.md)  
 
 
 
