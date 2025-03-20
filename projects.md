@@ -13,6 +13,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
 
 
 <h3 style="color: #fff;">Blue Team</h3>
+--
 <br>
 <table style="width:100%; background-color:#333; color:#fff; border-collapse:collapse; border:1px solid #555; table-layout:fixed;">
   <thead>
@@ -59,6 +60,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
 </table>
 
 <h3 style="color: #fff;">Cloud Security</h3>
+--
 <br>
 <table style="width:100%; background-color:#333; color:#fff; border-collapse:collapse; border:1px solid #555; table-layout:fixed;">
   <thead>
