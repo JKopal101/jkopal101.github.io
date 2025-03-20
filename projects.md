@@ -25,7 +25,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
         Incident Response Playbooks, CIA triad, Risk Evaluation, Compliance Review
       </td>
       <td style="padding:12px; border:5px solid #545;">
-         <strong>GRC</strong> <br>
+         <strong>GRC - </strong>
         <a href="https://github.com/JKopal101/Conducting-a-Security-Audit" style="color:white;">
           Conducting a Security Audit
         </a>
