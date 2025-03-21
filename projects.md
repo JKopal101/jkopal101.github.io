@@ -38,9 +38,9 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       </td>
       <td style="padding:12px; border:5px solid #545;">
         <strong>📜 Governance, Risk, and Compliance (GRC): </strong>
-        <strong><a href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy" style="color:white;"></strong>
+        <strong><a href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy" style="color:white;">
           Retail Cyber Defence Strategy
-        </a>
+        </a></strong>
       </td>
     </tr>
     <tr style="background-color:#555;">
