@@ -56,7 +56,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;">Threat Hunting, Virtual Machines (Azure), Endpoint Protection (MS Defender), KQL,
         Tor Browser </td>
       <td style="padding:12px; border:5px solid #545;">
-        <strong>🚨 Threat Hunting & Security Operations </strong>
+        <strong>🚨 Threat Hunting & Security Operations: </strong>
         <a href="https://github.com/JKopal101/threat-hunting-scenario-tor" style="color:white;">Threat Hunting Scenario: Tor</a>
       </td>
     </tr>
@@ -71,7 +71,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;">Network Traffic Analysis, IDS/IPS, Rule Configuration, 
         Threat Hunting, Log Analysis, SIEM, Linux </td>
       <td style="padding:12px; border:5px solid #545;">
-         <strong>🛡️ Incident Response: </strong>
+         <strong>🚨 Threat Hunting & Security Operations: </strong>
         <a href="https://github.com/JKopal101/network-traffic-with-suricata" style="color:white;">Network Traffic with Suricata</a>
       </td>
     </tr>
@@ -79,12 +79,14 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;">SIEM, Cloud Computing, Log Analysis, KGL Queries, Incident Response
       Threat Intelligence, Threat Hunting</td>
       <td style="padding:12px; border:5px solid #545;">
+        <strong>🚨 Threat Hunting & Security Operations: </strong>
         <a href="https://github.com/JKopal101/ms-azure-with-siem" style="color:white;">Microsoft Azure SIEM with Log Ingestion</a>
         </td>
     </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Network Monitoring, Scripting Automation, Forensics, IDS, Log Analysis</td>
       <td style="padding:12px; border:5px solid #545;">
+        <strong>🚨 Threat Hunting & Security Operations: </strong>
         <a href="https://github.com/JKopal101/honeypot--and-canary-token-monitoring" style="color:white;">Honeypot and Canary Token Monitoring</a>
       </td>
     </tr>
