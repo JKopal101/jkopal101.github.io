@@ -64,7 +64,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;">Header Analysis, Threat Intelligence (Virus Total, URLscan DomainTools), Python, Threat Investigation, Incident Response, Report Writing </td>
       <td style="padding:12px; border:5px solid #545;">
          <strong>🚨 Threat Hunting & Security Operations: </strong> <br>
-        <a href="https://github.com/JKopal101/email-phishing-analysis" style="color:white;">Incident Response: Email Phishing Analysis</a>
+        <strong><a href="https://github.com/JKopal101/email-phishing-analysis" style="color:white;">Incident Response: Email Phishing Analysis</a></strong>
       </td>
     </tr>
     <tr style="background-color:#555;">
