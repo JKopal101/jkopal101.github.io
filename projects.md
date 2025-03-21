@@ -25,7 +25,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
         Incident Response Playbooks, CIA triad, Risk Evaluation, Compliance Review
       </td>
       <td style="padding:12px; border:5px solid #545;">
-         <strong>GRC - </strong>
+         <strong>📜 Governance, Risk, and Compliance (GRC): </strong>
         <a href="https://github.com/JKopal101/Conducting-a-Security-Audit" style="color:white;">
           Conducting a Security Audit
         </a>
@@ -37,6 +37,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
         Zero-Trust Architectures, Vulnerability Management, Access Control
       </td>
       <td style="padding:12px; border:5px solid #545;">
+        <strong>📜 Governance, Risk, and Compliance (GRC): </strong>
         <a href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy" style="color:white;">
           Retail Cyber Defence Strategy
         </a>
@@ -47,6 +48,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
         PowerShell, BASH Scrips, Vulnerability Prioritization, Policy Development 
       </td> 
       <td style="padding:12px; border:5px solid #545;">
+        <strong>🔍 Vulnerability Management & Assessment: </strong>
         <a href="https://github.com/JKopal101/vulnerability-management-project" style="color:white;">Vulnerability Management Project</a>
       </td>
     </tr>
@@ -60,7 +62,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Header Analysis, Threat Intelligence (Virus Total, URLscan DomainTools), Python, Threat Investigation, Incident Response, Report Writing </td>
       <td style="padding:12px; border:5px solid #545;">
-         <strong>Incident Response: </strong>
+         <strong>🛡️ Incident Response: </strong>
         <a href="https://github.com/JKopal101/email-phishing-analysis" style="color:white;">Email Phishing Analysis</a>
       </td>
     </tr>
@@ -68,7 +70,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;">Network Traffic Analysis, IDS/IPS, Rule Configuration, 
         Threat Hunting, Log Analysis, SIEM, Linux </td>
       <td style="padding:12px; border:5px solid #545;">
-         <strong>Incident Response: </strong>
+         <strong>🛡️ Incident Response: </strong>
         <a href="https://github.com/JKopal101/network-traffic-with-suricata" style="color:white;">Network Traffic with Suricata</a>
       </td>
     </tr>
