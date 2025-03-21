@@ -33,6 +33,18 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
     </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">
+        INFOSEC, NIST Risk Management Framework, NIST Cybersecurity Framework,  
+        Incident Response Playbooks, CIA triad, Risk Evaluation, Compliance Review
+      </td>
+      <td style="padding:12px; border:5px solid #545;">
+         <strong>📜 Governance, Risk, and Compliance (GRC): </strong> <br>
+        <strong><a href="https://github.com/JKopal101/Conducting-a-Security-Audit" style="color:white;">
+          Conducting a Security Audit
+        </a></strong>
+      </td>
+    </tr>
+    <tr style="background-color:#555;">
+      <td style="padding:12px; border:5px solid #545;">
         NIST Risk Management Framework, Incident Response Playbooks,  
         Zero-Trust Architectures, Vulnerability Management, Access Control
       </td>
