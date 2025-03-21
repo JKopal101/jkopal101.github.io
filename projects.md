@@ -37,7 +37,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
         Zero-Trust Architectures, Vulnerability Management, Access Control
       </td>
       <td style="padding:12px; border:5px solid #545;">
-        <strong>📜 Governance, Risk, and Compliance (GRC): </strong>
+        <strong>📜 Governance, Risk, and Compliance (GRC): </strong> <br>
         <strong><a href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy" style="color:white;">
           Retail Cyber Defence Strategy
         </a></strong>
@@ -48,7 +48,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
         PowerShell, BASH Scrips, Vulnerability Prioritization, Policy Development 
       </td> 
       <td style="padding:12px; border:5px solid #545;">
-        <strong>⚠️ Vulnerability Management: </strong>
+        <strong>⚠️ Vulnerability Management: </strong> <br>
         <a href="https://github.com/JKopal101/vulnerability-management-project" style="color:white;">Vulnerability Management Program Implementation</a>
       </td>
     </tr>
@@ -56,14 +56,14 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;">Threat Hunting, Virtual Machines (Azure), Endpoint Protection (MS Defender), KQL,
         Tor Browser </td>
       <td style="padding:12px; border:5px solid #545;">
-        <strong>🚨 Threat Hunting & Security Operations: </strong>
+        <strong>🚨 Threat Hunting & Security Operations: </strong> <br>
         <a href="https://github.com/JKopal101/threat-hunting-scenario-tor" style="color:white;">Threat Hunting Scenario: Tor</a>
       </td>
     </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Header Analysis, Threat Intelligence (Virus Total, URLscan DomainTools), Python, Threat Investigation, Incident Response, Report Writing </td>
       <td style="padding:12px; border:5px solid #545;">
-         <strong>🛡️ Incident Response: </strong>
+         <strong>🛡️ Incident Response: </strong> <br>
         <a href="https://github.com/JKopal101/email-phishing-analysis" style="color:white;">Email Phishing Analysis</a>
       </td>
     </tr>
