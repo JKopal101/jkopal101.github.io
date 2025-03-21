@@ -48,14 +48,15 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
         PowerShell, BASH Scrips, Vulnerability Prioritization, Policy Development 
       </td> 
       <td style="padding:12px; border:5px solid #545;">
-        <strong>🔍 Vulnerability Management & Assessment: </strong>
-        <a href="https://github.com/JKopal101/vulnerability-management-project" style="color:white;">Vulnerability Management Project</a>
+        <strong>⚠️ Vulnerability Management: </strong>
+        <a href="https://github.com/JKopal101/vulnerability-management-project" style="color:white;">Vulnerability Management Program Implementation</a>
       </td>
     </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Threat Hunting, Virtual Machines (Azure), Endpoint Protection (MS Defender), KQL,
         Tor Browser </td>
       <td style="padding:12px; border:5px solid #545;">
+        <strong>🚨 Threat Hunting & Security Operations </strong>
         <a href="https://github.com/JKopal101/threat-hunting-scenario-tor" style="color:white;">Threat Hunting Scenario: Tor</a>
       </td>
     </tr>
