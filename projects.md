@@ -49,7 +49,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       </td> 
       <td style="padding:12px; border:5px solid #545;">
         <strong>⚠️ Vulnerability Management: </strong> <br>
-        <a href="https://github.com/JKopal101/vulnerability-management-project" style="color:white;">Vulnerability Management Program Implementation</a>
+        <strong><a href="https://github.com/JKopal101/vulnerability-management-project" style="color:white;">Vulnerability Management Program Implementation</a></strong>
       </td>
     </tr>
     <tr style="background-color:#555;">
@@ -57,7 +57,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
         Tor Browser </td>
       <td style="padding:12px; border:5px solid #545;">
         <strong>🚨 Threat Hunting & Security Operations: </strong> <br>
-        <a href="https://github.com/JKopal101/threat-hunting-scenario-tor" style="color:white;">Threat Hunting Scenario: Tor</a>
+        <strong><a href="https://github.com/JKopal101/threat-hunting-scenario-tor" style="color:white;">Threat Hunting Scenario: Tor</a></strong>
       </td>
     </tr>
     <tr style="background-color:#555;">
@@ -72,7 +72,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
         Threat Hunting, Log Analysis, SIEM, Linux </td>
       <td style="padding:12px; border:5px solid #545;">
          <strong>🚨 Threat Hunting & Security Operations: </strong>
-        <a href="https://github.com/JKopal101/network-traffic-with-suricata" style="color:white;">Network Traffic with Suricata</a>
+        <strong><a href="https://github.com/JKopal101/network-traffic-with-suricata" style="color:white;">Network Traffic with Suricata</a></strong>
       </td>
     </tr>
     <tr style="background-color:#555;">
@@ -80,7 +80,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       Threat Intelligence, Threat Hunting</td>
       <td style="padding:12px; border:5px solid #545;">
         <strong>🚨 Threat Hunting & Security Operations: </strong>
-        <a href="https://github.com/JKopal101/ms-azure-with-siem" style="color:white;">Microsoft Azure SIEM with Log Ingestion</a>
+        <strong><a href="https://github.com/JKopal101/ms-azure-with-siem" style="color:white;">Microsoft Azure SIEM with Log Ingestion</a></strong>
         </td>
     </tr>
     <tr style="background-color:#555;">
