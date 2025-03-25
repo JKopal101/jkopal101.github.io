@@ -83,7 +83,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
         Threat Hunting, Log Analysis, SIEM, Linux </td>
       <td style="padding:12px; border:5px solid #545;">
          <strong>🚨 Threat Hunting & Security Operations: </strong>
-        <strong><a href="https://github.com/JKopal101/network-traffic-with-suricata" style="color:white;">Network Traffic with Suricata</a></strong>
+        <strong><a href="https://github.com/JKopal101/network-traffic-with-suricata" style="color:white;">Networking Traffic with Suricata</a></strong>
       </td>
     </tr>
     <tr style="background-color:#555;">
