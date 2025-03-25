@@ -21,6 +21,10 @@ Get in touch with me!
 <a href="mailto:jkopal101@gmail.com.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<!-- Twitter -->
+<a href="https://x.com/j_kopal"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
 <br>
 
 Looking for my CV/Resume? You can find it here:
