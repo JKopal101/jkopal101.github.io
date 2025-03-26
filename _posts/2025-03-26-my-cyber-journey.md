@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "My Cybersecurity Journey: From Construction to Cyber"
+title: "From Curiosity to Cyber: My Journey into Cybersecurity & Computer Science"
 date: 2025-03-26
 author: James Kopal
 ---
-
+<br>
 
 ## Welcome 
 
