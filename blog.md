@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Blog"
+layout: default
+title: Blog
 permalink: /blog/
 ---
 
