@@ -8,7 +8,8 @@ author: By James Kopal
 
 
 <br>
-**Where It All Started**
+## Where It All Started
+<br>
 Like many people who switch careers, my journey into Cybersecurity didn’t start in a server room or with a terminal open. I originally studied and my background is in Civil Engineering, solving physical world problems and working on critical infrastructure. In Civil, I was drawn to the idea of building systems that impact communities, but over time, I realized that my interests were shifting toward the technology side, especially in areas like digital security. 
 I originally started off trying web development, which I grew to like programming such as Python which gave me an idea for the software side. 
 For me, the transition from Civil Engineering to Cybersecurity is driven by my growing passion for technology and problem-solving in an evolving digital world. Computers have always been my thing growing up; from building them to always fixing friends' problems and being the tech guy for my family, fixing anything tech has always got me persistent and curious when something doesn’t work. 
