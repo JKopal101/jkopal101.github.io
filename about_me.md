@@ -22,7 +22,7 @@ As I learned more about the increasing threats and challenges in the Cybersecuri
 My path into cybersecurity began with a background in **Civil Engineering**, where I was drawn to systems thinking and solving real-world problems. Over time, my curiosity shifted toward **technology**, especially in areas like **data protection, digital threats, and cyber defense**. 
 <br>
 <span style="font-weight:600;">Want the full story?</span>
-👉[Want the full Story?](_posts/2025-03-26-my-cyber-journey.md)
+👉[Want the full Story?](_posts/2025-03-26-my-cyber-journey.md){: .btn}
 
 <!-- <span style="font-weight:600;">Want the full story?</span> <br>
 👉<a href="_posts/2025-03-26-my-cyber-journey.html" style="display:inline-block; padding: 8px 16px; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; margin-top:6px;">Read the full blog post</a> -->
