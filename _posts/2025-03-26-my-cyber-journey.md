@@ -1,7 +1,8 @@
 ---
 layout: post
-title: My Blog
-permalink: /blog/
+title: "My Cybersecurity Journey: From Construction to Cyber"
+date: 2025-03-26
+author: James Kopal
 ---
 
 
