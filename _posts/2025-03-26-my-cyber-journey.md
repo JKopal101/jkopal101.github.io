@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "From Curiosity to Cyber: My Journey into Cybersecurity & Computer Science"
+title: "🧠 From Curiosity to Cyber: My Journey into Cybersecurity & Computer Science"
 date: 2025-03-26
 author: James Kopal
 ---
 <br>
 
 
-
-## 🧠 From Curiosity to Cyber: My Journey into Cybersecurity & Computer Science
-<br>
 **Date: March 26th 2025**
 <br>
 *By James Kopal*
