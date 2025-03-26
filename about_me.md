@@ -23,7 +23,7 @@ My path into cybersecurity began with a background in **Civil Engineering**, whe
 
 I’ve since been self-studying, taking courses, and building hands-on labs to develop my technical skills.<br>
 <span style="font-weight:600;">Want the full story?</span>
-👉[Want the full Story?](_posts/2025-03-26-my-cyber-journey.html) 
+👉[Want the full Story?](_posts/2025-03-26-my-cyber-journey.md) 
 
 <span style="font-weight:600;">Want the full story?</span> <br>
 👉<a href="_posts/2025-03-26-my-cyber-journey.md" style="display:inline-block; padding: 8px 16px; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; margin-top:6px;">Read the full blog post</a>
@@ -31,7 +31,7 @@ I’ve since been self-studying, taking courses, and building hands-on labs to d
 Here’s a snapshot of what I’ve been working on: 
 <br><br>
   🔹 **Network Security** – Monitoring traffic, understanding protocols, and detecting anomalies
-  🔹  **Threat Analysis** – Studying attacker behavior and defensive strategies
+  🔹 **Threat Analysis** – Studying attacker behavior and defensive strategies
   🔹 **SIEM & Incident Response** – Using tools like Splunk, Security Onion, and Suricata
   🔹 **Security Automation** – Writing Python scripts to streamline defensive tasks
 <br><br>
