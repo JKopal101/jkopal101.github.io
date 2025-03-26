@@ -28,12 +28,12 @@ I’ve since been self-studying, taking courses, and building hands-on labs to d
 <span style="font-weight:600;">Want the full story?</span> <br>
 👉<a href="_posts/2025-03-26-my-cyber-journey.md" style="display:inline-block; padding: 8px 16px; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; margin-top:6px;">Read the full blog post</a>
 
-Here’s a snapshot of what I’ve been working on: 
+I began learning cybersecurity through self-study, online courses, and hands-on labs. Along the way, I gained experience in:
 <br><br>
-  🔹 **Network Security** – Monitoring traffic, understanding protocols, and detecting anomalies
-  🔹 **Threat Analysis** – Studying attacker behavior and defensive strategies
-  🔹 **SIEM & Incident Response** – Using tools like Splunk, Security Onion, and Suricata
-  🔹 **Security Automation** – Writing Python scripts to streamline defensive tasks
+  🔹 **Network Security** – Understanding protocols, monitoring traffic, and detecting anomalies.  
+  🔹 **Threat Analysis** – Learning how attackers operate and how to defend against them.  
+  🔹 **SIEM & Incident Response** – Using tools like Splunk and Suricata to analyze security events.  
+  🔹 **Security Automation** – Writing Python scripts to automate security tasks.
 <br><br>
 
 ### **My Goals**  
