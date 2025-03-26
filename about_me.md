@@ -19,15 +19,17 @@ As I learned more about the increasing threats and challenges in the Cybersecuri
 
 ### **My Cybersecurity Journey**
 <br>
-For me, the transition from Civil Engineering to Cybersecurity is driven by my growing passion for technology and problem-solving in an evolving digital world. 
-When I pursued Civil Engineering, I was drawn to the idea of building systems that impact communities, but over time, I realized that my interests were shifting toward the technological side, especially in areas like data protection and digital security. 
+My path into cybersecurity began with a background in **Civil Engineering**, where I was drawn to systems thinking and solving real-world problems. Over time, my curiosity shifted toward **technology**, especially in areas like **data protection, digital threats, and cyber defense**.
 
-I began learning cybersecurity through self-study, online courses, and hands-on labs. Along the way, I gained experience in:
-<br><br>
-  🔹 **Network Security** – Understanding protocols, monitoring traffic, and detecting anomalies.  
-  🔹 **Threat Analysis** – Learning how attackers operate and how to defend against them.  
-  🔹 **SIEM & Incident Response** – Using tools like Splunk and Suricata to analyze security events.  
-  🔹 **Security Automation** – Writing Python scripts to automate security tasks.
+I’ve since been self-studying, taking courses, and building hands-on labs to develop my technical skills.
+<span style="font-weight:600;">Want the full story?</span>
+👉
+<a href="/2025/03/26/my-cybersecurity-journey-from-construction-to-cyber.html" style="display:inline-block; padding: 8px 16px; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; margin-top:6px;">Read the full blog post</a>
+
+<br><br> Here’s a snapshot of what I’ve been working on: <br><br> 🔹 Network Security – Monitoring traffic, understanding protocols, and detecting anomalies
+🔹 Threat Analysis – Studying attacker behavior and defensive strategies
+🔹 SIEM & Incident Response – Using tools like Splunk, Security Onion, and Suricata
+🔹 Security Automation – Writing Python scripts to streamline defensive tasks
 <br><br>
 
 ### **My Goals**  
