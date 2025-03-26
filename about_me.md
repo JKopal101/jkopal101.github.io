@@ -30,10 +30,10 @@ I’ve since been self-studying, taking courses, and building hands-on labs to d
 
 Here’s a snapshot of what I’ve been working on: 
 <br><br>
-🔹 **Network Security** – Monitoring traffic, understanding protocols, and detecting anomalies
-🔹 **Threat Analysis** – Studying attacker behavior and defensive strategies
-🔹 **SIEM & Incident Response** – Using tools like Splunk, Security Onion, and Suricata
-🔹 **Security Automation** – Writing Python scripts to streamline defensive tasks
+  🔹 **Network Security** – Monitoring traffic, understanding protocols, and detecting anomalies
+  🔹  **Threat Analysis** – Studying attacker behavior and defensive strategies
+  🔹 **SIEM & Incident Response** – Using tools like Splunk, Security Onion, and Suricata
+  🔹 **Security Automation** – Writing Python scripts to streamline defensive tasks
 <br><br>
 
 ### **My Goals**  
