@@ -39,6 +39,8 @@ header_pages:
     url: "/contact/"
   - title: "Projects"
     url: "/projects/"
+  - title: "Blog"
+    url: "/blog/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
