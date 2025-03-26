@@ -8,8 +8,11 @@ permalink: /blog/
 ## Welcome 
 
 ## 🧠 From Curiosity to Cyber: My Journey into Cybersecurity & Computer Science
-
+<br>
+**Date: March 26th 2025**
+<br>
 *By James Kopal*
+<br>
 **Where It All Started**
 Like many people who switch careers, my journey into Cybersecurity didn’t start in a server room or with a terminal open. I originally studied and my background is in Civil Engineering, solving physical world problems and working on critical infrastructure. In Civil, I was drawn to the idea of building systems that impact communities, but over time, I realized that my interests were shifting toward the technology side, especially in areas like digital security. 
 I originally started off trying web development, which I grew to like programming such as Python which gave me an idea for the software side. 
