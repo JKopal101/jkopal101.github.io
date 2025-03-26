@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Curiosity to Cyber: My Journey into Cybersecurity"
+title: "Blog"
 permalink: /blog/
 ---
 
