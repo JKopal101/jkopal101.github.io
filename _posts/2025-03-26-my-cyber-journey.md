@@ -6,7 +6,7 @@ author: James Kopal
 ---
 <br>
 
-## Welcome 
+
 
 ## 🧠 From Curiosity to Cyber: My Journey into Cybersecurity & Computer Science
 <br>
