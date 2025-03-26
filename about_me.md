@@ -23,7 +23,7 @@ My path into cybersecurity began with a background in **Civil Engineering**, whe
 
 I’ve since been self-studying, taking courses, and building hands-on labs to develop my technical skills.<br>
 <span style="font-weight:600;">Want the full story?</span>
-👉[Want the full Story?](_posts/2025-03-26-my-cyber-journey.md) 
+👉[Want the full Story?](_posts/2025-03-26-my-cyber-journey.md){style="display:inline-block; padding: 8px 16px; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; margin-top:6px;"}
 
 <span style="font-weight:600;">Want the full story?</span> <br>
 👉<a href="_posts/2025-03-26-my-cyber-journey.md" style="display:inline-block; padding: 8px 16px; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; margin-top:6px;">Read the full blog post</a>
