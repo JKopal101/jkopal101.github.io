@@ -23,8 +23,7 @@ My path into cybersecurity began with a background in **Civil Engineering**, whe
 
 I’ve since been self-studying, taking courses, and building hands-on labs to develop my technical skills.
 <span style="font-weight:600;">Want the full story?</span>
-👉
-<a href="/2025/03/26/my-cybersecurity-journey-from-construction-to-cyber.html" style="display:inline-block; padding: 8px 16px; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; margin-top:6px;">Read the full blog post</a>
+👉[Want the full Story?](contact.md) 
 
 <br><br> Here’s a snapshot of what I’ve been working on: <br>
 🔹 Network Security – Monitoring traffic, understanding protocols, and detecting anomalies
