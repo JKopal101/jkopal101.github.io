@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Blog
+title: My Blog
 permalink: /blog/
 ---
 
 
-## Welcome to My Blog
+## Welcome 
+
+
