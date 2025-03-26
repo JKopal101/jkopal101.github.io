@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 <h1>📝 My Blog</h1>
-
+<br>
 <ul>
   {% for post in site.posts %}
     <li>
