@@ -45,9 +45,9 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 <h4>Network</h4>
 <br>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">tcpdump</button>
-  <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">Wireshark</button>
-  <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">Nmap</button>
+  <button style="padding: 10px 20px; background-color: #333; color: white; border-radius: 6px; border: none;">tcpdump</button>
+  <button style="padding: 10px 20px; background-color: #333; color: white; border-radius: 6px; border: none;">Wireshark</button>
+  <button style="padding: 10px 20px; background-color: #333; color: white; border-radius: 6px; border: none;">Nmap</button>
 </div>
 <br>
 <h4>Endpoint Protection</h4>
