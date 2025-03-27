@@ -56,36 +56,23 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 - **Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
 <br>
 
-<div class="p-4 space-y-6">
+<h3>Network</h3>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">tcpdump</button>
+  <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">Wireshark</button>
+  <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">Nmap</button>
+</div>
 
-  <!-- Network Tools -->
-  <div>
-    <h2 class="text-lg font-semibold mb-2">Network</h2>
-    <div class="flex flex-wrap gap-3">
-      <button class="px-4 py-2 bg-gray-800 text-white rounded-md shadow hover:bg-gray-700">tcpdump</button>
-      <button class="px-4 py-2 bg-gray-800 text-white rounded-md shadow hover:bg-gray-700">Wireshark</button>
-      <button class="px-4 py-2 bg-gray-800 text-white rounded-md shadow hover:bg-gray-700">Nmap</button>
-    </div>
-  </div>
+<h3>Endpoint Protection</h3>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <button style="padding: 10px 20px; border: none; background-color: #00509E; color: white; border-radius: 6px; cursor: default;">Microsoft Defender</button>
+  <button style="padding: 10px 20px; border: none; background-color: #00509E; color: white; border-radius: 6px; cursor: default;">Velociraptor</button>
+</div>
 
-  <!-- Endpoint Protection -->
-  <div>
-    <h2 class="text-lg font-semibold mb-2">Endpoint Protection</h2>
-    <div class="flex flex-wrap gap-3">
-      <button class="px-4 py-2 bg-blue-800 text-white rounded-md shadow hover:bg-blue-700">Microsoft Defender for Endpoint</button>
-      <button class="px-4 py-2 bg-blue-800 text-white rounded-md shadow hover:bg-blue-700">Velociraptor</button>
-    </div>
-  </div>
-
-  <!-- SIEM -->
-  <div>
-    <h2 class="text-lg font-semibold mb-2">SIEM</h2>
-    <div class="flex flex-wrap gap-3">
-      <button class="px-4 py-2 bg-green-800 text-white rounded-md shadow hover:bg-green-700">Splunk</button>
-      <button class="px-4 py-2 bg-green-800 text-white rounded-md shadow hover:bg-green-700">Elastic</button>
-    </div>
-  </div>
-
+<h3>SIEM</h3>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <button style="padding: 10px 20px; border: none; background-color: #006400; color: white; border-radius: 6px; cursor: default;">Splunk</button>
+  <button style="padding: 10px 20px; border: none; background-color: #006400; color: white; border-radius: 6px; cursor: default;">Elastic</button>
 </div>
 
 
