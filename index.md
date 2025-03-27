@@ -7,7 +7,7 @@ title: Exploring Cybersecurity & Digital Defense
 I'm James, welcome to my portfolio! I'm passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. Self-taught experience in Network Security, Threat Intelligence, Threat Hunting. I specialize in identifying threats, analysing vulerabilities and automating Cybersecurity tasks to ensure systems remain secure and resilient. 
 <br><br>
 
-### **Featured Projects**  
+#### **Featured Projects**  
 Here are some of my key cybersecurity projects:  
 
 - **[Conducting a Security Audit](https://github.com/JKopal101/Conducting-a-Security-Audit)** – A security assessment following NIST guidelines.  
@@ -15,7 +15,7 @@ Here are some of my key cybersecurity projects:
 - **[Detection Lab](https://github.com/JKopal101/Detection-Lab)** – SIEM implementation and log analysis.  
 <br>
 
-### **Certifications & Courses** 
+#### **Certifications & Courses** 
 
 - **[TCM Security: Security Operations (SOC) 101](https://tcm-sec.com/)**  
   
@@ -30,7 +30,7 @@ Here are some of my key cybersecurity projects:
 
   <br>
 
-### **Planned Certifications** 
+#### **Planned Certifications** 
 
 - **CompTIA Security+**, **CompTIA Network+**, **CISSP**  
 - **ISO 27001 Lead Implementer**  
