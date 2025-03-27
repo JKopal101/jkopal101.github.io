@@ -43,24 +43,25 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 #### **Key Tools I Use**
 
 <h4>Network</h4>
+<br>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">tcpdump</button>
   <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">Wireshark</button>
   <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">Nmap</button>
 </div>
-
+<br>
 <h4>Endpoint Protection</h4>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <button style="padding: 10px 20px; border: none; background-color: #00509E; color: white; border-radius: 6px; cursor: default;">Microsoft Defender</button>
   <button style="padding: 10px 20px; border: none; background-color: #00509E; color: white; border-radius: 6px; cursor: default;">Velociraptor</button>
 </div>
-
+<br>
 <h4>SIEM</h4>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <button style="padding: 10px 20px; border: none; background-color: #006400; color: white; border-radius: 6px; cursor: default;">Splunk</button>
   <button style="padding: 10px 20px; border: none; background-color: #006400; color: white; border-radius: 6px; cursor: default;">Elastic</button>
 </div>
-
+<br>
 **Governance, Risk, and Compliance (GRC)**:
 - **Tools:** `RiskWatch`, `ISO Compliance Tracker`  
 - **Frameworks:** NIST, ISO 27001, MITRE ATT&CK 
