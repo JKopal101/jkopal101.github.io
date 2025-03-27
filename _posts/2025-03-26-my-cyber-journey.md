@@ -8,7 +8,7 @@ author: By James Kopal
 
 
 <br>
-## Where It All Started
+### Where It All Started
 <br>
 Like many people who switch careers, my journey into Cybersecurity didn’t start in a server room or with a terminal open. I originally studied and my background is in Civil Engineering, solving physical world problems and working on critical infrastructure. In Civil, I was drawn to the idea of building systems that impact communities, but over time, I realized that my interests were shifting toward the technology side, especially in areas like digital security. 
 I originally started off trying web development, which I grew to like programming such as Python which gave me an idea for the software side. 
@@ -19,7 +19,7 @@ Hello and welcome! I’m James, and this blog marks the start of my cybersecurit
 
 ---
 
-## 👷‍♂️ Life Before Cyber: Engineering & Construction
+### 👷‍♂️ Life Before Cyber: Engineering & Construction
 
 Before diving into cybersecurity, I worked as a **Civil, Structural & Architectural Engineer** at Cavendish Nuclear. I was responsible for overseeing engineering changes, ensuring safety and compliance, and collaborating with teams across disciplines.
 
@@ -27,7 +27,7 @@ It was highly technical, but over time, I found myself increasingly drawn to **t
 
 ---
 
-## 🧪 First Exposure: Playing with Linux & Security Labs
+### 🧪 First Exposure: Playing with Linux & Security Labs
 
 My curiosity led me to:
 - Install **Linux (Ubuntu, Kali)** on an old gaming laptop.
@@ -39,7 +39,7 @@ I was hooked. The technical depth, the constant problem-solving, and the impact 
 
 ---
 
-## 🧠 Building Skills & Community
+### 🧠 Building Skills & Community
 
 To stay consistent, I joined a **Cybersecurity Skool community**, which provided mentorship and structure. I learned from professionals with years of experience and started treating my study like a job.
 
@@ -52,7 +52,7 @@ Some tools & topics I’ve explored so far:
 
 ---
 
-## 🔐 SOC & Purple Team Interests
+### 🔐 SOC & Purple Team Interests
 
 I'm actively preparing for **SOC Analyst** roles and sharpening my detection and analysis skills. At the same time, **Purple Teaming** is pulling me in — I love the idea of blending offensive and defensive thinking.
 
@@ -63,7 +63,7 @@ What excites me about Purple Teaming:
 
 ---
 
-## 📜 Certifications & Career Goals
+### 📜 Certifications & Career Goals
 
 I'm currently studying for the **CompTIA Security+** certification, which is helping reinforce foundational knowledge in areas like:
 
@@ -80,7 +80,7 @@ I'm currently studying for the **CompTIA Security+** certification, which is hel
 
 ---
 
-## 🔍 Current Life & Job Hunt
+### 🔍 Current Life & Job Hunt
 
 I’ve recently moved to **Calgary**, and while I’m pursuing cybersecurity roles, I’m also open to **labour/construction work** to support myself while learning.
 
@@ -88,7 +88,7 @@ I’ve even created a custom **Cyber Job Tracker** using Google Sheets to manage
 
 ---
 
-## 🚀 Final Thoughts
+### 🚀 Final Thoughts
 
 Cybersecurity feels like a calling — the perfect combination of technical depth, constant learning, and real-world impact. I’ll continue sharing insights, struggles, and wins here.
 
