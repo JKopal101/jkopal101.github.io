@@ -40,7 +40,7 @@ My focus is on developing expertise in threat detection, incident response, and 
 I’ve honed my skills through hands-on projects, certification programs, and real-world experience working with tools like Wireshark, Splunk, Suricata, and Python. As I continue my journey, I aim to contribute to the growing field of Cybersecurity by taking on roles such as Security Analyst and SOC Analyst.
 <br><br>
 
-### **Key Tools**
+#### **Key Tools I Use**
 
 **Network**:
 - `tcpdump`, `Wireshark`, `Nmap`
@@ -56,20 +56,20 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 - **Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
 <br>
 
-<h3>Network</h3>
+<h4>Network</h4>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">tcpdump</button>
   <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">Wireshark</button>
   <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">Nmap</button>
 </div>
 
-<h3>Endpoint Protection</h3>
+<h4>Endpoint Protection</h4>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <button style="padding: 10px 20px; border: none; background-color: #00509E; color: white; border-radius: 6px; cursor: default;">Microsoft Defender</button>
   <button style="padding: 10px 20px; border: none; background-color: #00509E; color: white; border-radius: 6px; cursor: default;">Velociraptor</button>
 </div>
 
-<h3>SIEM</h3>
+<h4>SIEM</h4>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <button style="padding: 10px 20px; border: none; background-color: #006400; color: white; border-radius: 6px; cursor: default;">Splunk</button>
   <button style="padding: 10px 20px; border: none; background-color: #006400; color: white; border-radius: 6px; cursor: default;">Elastic</button>
@@ -78,7 +78,7 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 
 ---
 
-### 🌐 **Let's Connect**
+#### 🌐 **Let's Connect**
 <br>
 I'm always looking for new opportunities to grow and collaborate. Feel free to explore my projects and get in touch if you'd like to discuss potential collaborations or Cybersecurity solutions.
 
