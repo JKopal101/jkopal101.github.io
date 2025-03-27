@@ -41,22 +41,21 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 <br><br>
 
 #### **Key Tools I Use**
-
-#### Networking
 <br>
+<h5>Networking</h5>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <button style="padding: 10px 20px; background-color: #333; color: white; border-radius: 6px; border: none;">tcpdump</button>
   <button style="padding: 10px 20px; background-color: #333; color: white; border-radius: 6px; border: none;">Wireshark</button>
   <button style="padding: 10px 20px; background-color: #333; color: white; border-radius: 6px; border: none;">Nmap</button>
 </div>
 <br>
-#### Endpoint Protection
+<h5> Endpoint Protection</h5>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <button style="padding: 10px 20px; border: none; background-color: #00509E; color: white; border-radius: 6px; cursor: default;">Microsoft Defender</button>
   <button style="padding: 10px 20px; border: none; background-color: #00509E; color: white; border-radius: 6px; cursor: default;">Velociraptor</button>
 </div>
 <br>
-#### SIEM
+<h5>SIEM</h5>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <button style="padding: 10px 20px; border: none; background-color: #006400; color: white; border-radius: 6px; cursor: default;">Splunk</button>
   <button style="padding: 10px 20px; border: none; background-color: #006400; color: white; border-radius: 6px; cursor: default;">Elastic</button>
