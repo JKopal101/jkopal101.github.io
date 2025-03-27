@@ -42,20 +42,6 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 
 #### **Key Tools I Use**
 
-**Network**:
-- `tcpdump`, `Wireshark`, `Nmap`
-
-**Endpoint Protection**:
-- `Microsoft Defender for Endpoint`, `Velociraptor`
-
-**SIEM**:
-- `Splunk`, `Elastic`
-
-**Governance, Risk, and Compliance (GRC)**:
-- **Tools:** `RiskWatch`, `ISO Compliance Tracker`  
-- **Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
-<br>
-
 <h4>Network</h4>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <button style="padding: 10px 20px; border: none; background-color: #333; color: white; border-radius: 6px; cursor: default;">tcpdump</button>
@@ -74,6 +60,25 @@ I’ve honed my skills through hands-on projects, certification programs, and re
   <button style="padding: 10px 20px; border: none; background-color: #006400; color: white; border-radius: 6px; cursor: default;">Splunk</button>
   <button style="padding: 10px 20px; border: none; background-color: #006400; color: white; border-radius: 6px; cursor: default;">Elastic</button>
 </div>
+
+**Governance, Risk, and Compliance (GRC)**:
+- **Tools:** `RiskWatch`, `ISO Compliance Tracker`  
+- **Frameworks:** NIST, ISO 27001, MITRE ATT&CK 
+
+
+<!--**Network**:
+- `tcpdump`, `Wireshark`, `Nmap`
+
+**Endpoint Protection**:
+- `Microsoft Defender for Endpoint`, `Velociraptor`
+
+**SIEM**:
+- `Splunk`, `Elastic`
+
+**Governance, Risk, and Compliance (GRC)**:
+- **Tools:** `RiskWatch`, `ISO Compliance Tracker`  
+- **Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
+<br>--->
 
 
 ---
