@@ -65,8 +65,8 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 **Governance, Risk, and Compliance (GRC)**:
 - **Tools:** `RiskWatch`, `ISO Compliance Tracker`  
 - **Frameworks:** NIST, ISO 27001, MITRE ATT&CK 
-
 <br>
+
 <!--**Network**:
 - `tcpdump`, `Wireshark`, `Nmap`
 
@@ -79,7 +79,7 @@ I’ve honed my skills through hands-on projects, certification programs, and re
 **Governance, Risk, and Compliance (GRC)**:
 - **Tools:** `RiskWatch`, `ISO Compliance Tracker`  
 - **Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
-<br>--->
+<br> --->
 
 
 ---
