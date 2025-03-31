@@ -111,7 +111,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       <td style="padding:12px; border:5px solid #545;">Log Investigation & Analysis, Incident Response</td>
       <td style="padding:12px; border:5px solid #545;">
         <strong>🚨 Threat Hunting & Security Operations: </strong> <br>
-        <strong><a href="https://github.com/JKopal101/Vulnerability-Assessment-and-Log-Analysis-Lab" style="color:white;"> Vulnerability Assessment and Log Analysis Lab (TCM Security)</td>
+        <strong><a href="https://github.com/JKopal101/Vulnerability-Assessment-and-Log-Analysis-Lab" style="color:white;"> Vulnerability Assessment and Log Analysis Lab</a></strong></td>
     </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Linux, Network Traffic Analysis, Log Investigation</td>
