@@ -103,7 +103,8 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
     </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Vulnerability Management, Log Analysis, Incident Response</td>
-      <td style="padding:12px; border:5px solid #545;">Vulnerability Scanning using Nessus</td>
+      <td style="padding:12px; border:5px solid #545;">
+        <strong><a href="https://github.com/JKopal101/Vulnerability-Scanning-using-Nessus" style="color:white;">Vulnerability Scanning using Nessus</a></strong></td>
     </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">Log Investigation & Analysis, Incident Response</td>
