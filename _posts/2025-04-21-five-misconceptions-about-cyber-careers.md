@@ -6,9 +6,6 @@ author: By James Kopal
 ---
 <br>
 
-
-<br>
-### 🧠 Five Misconceptions About Cybersecurity Careers
 <br>
 
 ### Intro (2-3 sentences)
