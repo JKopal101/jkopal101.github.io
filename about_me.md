@@ -41,6 +41,7 @@ I also transferred some notable soft skills from my background in engineering su
   🔹 **Strong Communication Skills**
   🔹 **Strong Team Player**
   🔹 **Self Efficient Learner**
+  🔹 **Solid Problem-Solving Abilities**
 <br><br>
 
 ### **My Goals**  
