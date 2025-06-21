@@ -35,6 +35,14 @@ I began learning cybersecurity through self-study, online courses, and hands-on 
   🔹 **Security Automation** – Writing Python scripts to automate security tasks.
 <br><br>
 
+I also transferred some notable soft skills from my background in engineering such as: 
+<br><br>
+  🔹 **Highly Adaptable**
+  🔹 **Strong Communication Skills**
+  🔹 **Strong Team Player**
+  🔹 **Self Efficient Learner**
+<br><br>
+
 ### **My Goals**  
 <br>
 I am currently working towards **CompTIA Security+** and continuously improving my skills through real-world projects. My ultimate goal is to become a **SOC Analyst** and contribute to a safer digital world. I am also interested in Pen Testing and enjoy purple teaming, as well as exploring the offensive side through Red Team activities.
