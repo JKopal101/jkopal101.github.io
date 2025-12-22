@@ -25,7 +25,7 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
       </td> 
       <td style="padding:12px; border:5px solid #545;">
         <strong>⚠️ Vulnerability Management: </strong> <br>
-        <strong><a href="https://github.com/JKopal101/vulnerability-management-project" style="color:white;">Cybernara Project Portfolio</a></strong>
+        <strong><a href="[https://github.com/JKopal101/vulnerability-management-project](https://github.com/JKopal101/cybernara-project-portfolio)" style="color:white;">Cybernara Project Portfolio</a></strong>
       </td>
     </tr>
     <tr style="background-color:#555;">
