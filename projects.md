@@ -19,6 +19,17 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
     </tr>
   </thead>
   <tbody>
+        <tr style="background-color:#555;">
+      <td style="padding:12px; border:5px solid #545;">
+         Regulatory Compliance (GDPR, HIPAA), NIST Risk Management, ISO 27001 Compliance, Security Policy Development, Risk Assessment, IR, Security Awareness
+      </td>
+      <td style="padding:12px; border:5px solid #545;">
+         <strong>📜 Governance, Risk, and Compliance (GRC): </strong> <br>
+        <strong><a href="https://github.com/JKopal101/Conducting-a-Security-Audit" style="color:white;">
+          Governance, Risk and Compliance Capstone Project
+        </a></strong>
+      </td>
+    </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;">
          Regulatory Compliance (GDPR, HIPAA), NIST Risk Management, ISO 27001 Compliance, Security Policy Development, Risk Assessment, IR, Security Awareness
