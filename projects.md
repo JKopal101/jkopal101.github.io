@@ -19,6 +19,15 @@ I’ve worked on a variety of projects in the Cybersecurity and IT space, focusi
     </tr>
   </thead>
   <tbody>
+        <tr style="background-color:#555;">
+      <td style="padding:12px; border:5px solid #545;"> Vulnerability Assessment Tools (Tenable), Cloud Computing (Azure VMachines), 
+        PowerShell, BASH Scrips, Vulnerability Prioritization, Policy Development 
+      </td> 
+      <td style="padding:12px; border:5px solid #545;">
+        <strong>⚠️ Vulnerability Management: </strong> <br>
+        <strong><a href="https://github.com/JKopal101/vulnerability-management-project" style="color:white;">Cybernara Project Portfolio</a></strong>
+      </td>
+    </tr>
     <tr style="background-color:#555;">
       <td style="padding:12px; border:5px solid #545;"> Vulnerability Assessment Tools (Tenable), Cloud Computing (Azure VMachines), 
         PowerShell, BASH Scrips, Vulnerability Prioritization, Policy Development 
