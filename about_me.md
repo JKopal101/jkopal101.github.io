@@ -10,43 +10,40 @@ permalink: /about_me/
 <img src="/assets/IMG_20220307_112617.jpg" width="150px" style="border-radius: 50%;" alt="James">
 
 <br>
-From a young age, I was always fascinated by technology and how things worked. This curiosity led me to explore different areas of IT, from troubleshooting hardware to experimenting with software. However, it was **Cybersecurity** that truly captured my interest—the idea of protecting systems, detecting threats, and staying ahead of attackers.  
-
-
-As I learned more about the increasing threats and challenges in the Cybersecurity space, I found it to be an exciting and dynamic field where I could apply my analytical skills, attention to detail, and problem-solving mindset in a new way, and watching TV shows and reading about Cyber news. 
+From a young age I was drawn to how complex systems work — and how they fail. That curiosity led me through civil engineering and eventually into cybersecurity, where the problems are harder, the stakes are higher, and the field never stands still. The idea of protecting systems, hunting threats, and thinking like an attacker while defending like an analyst is where my engineering mindset found its best use. 
 
 <br>
 
 ### **My Cybersecurity Journey**
 <br>
-My path into cybersecurity began with a background in **Civil Engineering**, where I was drawn to systems thinking and solving real-world problems. Over time, my curiosity shifted toward **technology**, especially in areas like **data protection, digital threats, and cyber defense**. 
+My path into cybersecurity started with a civil engineering background — a discipline built on risk assessment, documentation rigour, and working to tight standards. Those skills translate directly: gap analysis is gap analysis whether you're assessing a bridge or an ISO 27001 control set.
 <br>
-<span style="font-weight:600;">Want the full story?</span>
-👉[Read My Blog](_posts/2025-03-26-my-cyber-journey.md){: .btn}
 
 <!-- <span style="font-weight:600;">Want the full story?</span> <br>
 👉<a href="_posts/2025-03-26-my-cyber-journey.html" style="display:inline-block; padding: 8px 16px; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; margin-top:6px;">Read the full blog post</a> -->
 
 I began learning cybersecurity through self-study, online courses, and hands-on labs. Along the way, I gained experience in:
 <br><br>
-  🔹 **Network Security** – Understanding protocols, monitoring traffic, and detecting anomalies.  
-  🔹 **Threat Analysis** – Learning how attackers operate and how to defend against them.  
-  🔹 **SIEM & Incident Response** – Using tools like Splunk and Suricata to analyze security events.  
-  🔹 **Security Automation** – Writing Python scripts to automate security tasks.
+
+I made the transition through self-study, hands-on labs, and formal training. Along the way I've built experience in:
+<br><br>
+🔹 SOC & Threat Detection — Deploying and tuning SIEMs (Splunk, Microsoft Sentinel), writing custom detection rules in SPL and KQL, and investigating alerts end-to-end.
+🔹 Network Security — Monitoring traffic, configuring Suricata IDS with Emerging Threats rulesets, and analysing packet captures.
+🔹 GRC — Conducting security audits and risk assessments against NIST CSF 2.0 and ISO 27001, producing professional deliverables.
+🔹 Offensive Techniques — Running vulnerability assessments, simulating attacks from Kali Linux, and understanding the attacker perspective to inform better defences.
 <br><br>
 
-I also transferred some notable soft skills from my background in engineering such as: 
-<br><br>
-  🔹 **Highly Adaptable**
-  🔹 **Strong Communication Skills**
-  🔹 **Strong Team Player**
-  🔹 **Self Efficient Learner**
-  🔹 **Solid Problem-Solving Abilities**
-<br><br>
+The engineering background also means I bring skills that are harder to teach: structured thinking under pressure, clear technical documentation, and the habit of asking why a control exists before implementing it.<br><br>
+<span style="font-weight:600;">Want the full story?</span>
+👉[Read My Blog](_posts/2025-03-26-my-cyber-journey.md){: .btn}
+
 
 ### **My Goals**  
 <br>
-I am currently working towards **CompTIA Security+** and continuously improving my skills through real-world projects. My ultimate goal is to become a **SOC Analyst** and contribute to a safer digital world. I am also interested in Pen Testing and enjoy purple teaming, as well as exploring the offensive side through Red Team activities.
+I'm actively targeting SOC Analyst and GRC Analyst roles in the Canadian market, with a particular interest in Alberta's energy, fintech, and healthcare sectors.
+Current certifications in progress: ISC2 CC, CompTIA Security+, and ISO 27001 Lead Implementer. Longer-term I'm working toward CySA+ and OSCP to build credibility across both the blue and red team sides.
+<br>
+The longer-term ambition is a purple team consulting practice — but right now the focus is getting into a role where I can contribute, learn fast, and prove the work.
 
 🚀 *Cybersecurity is an ever-evolving field, and I’m excited to grow with it!* 
 
