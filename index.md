@@ -238,6 +238,8 @@ permalink: /
   }
 </style>
 
+<h1 style="font-size:2rem; font-weight:700; color:#f0f0f0; margin-bottom:1.5rem; line-height:1.2;">Exploring Cybersecurity &amp; Digital Defense</h1>
+
 <p class="home-intro">
   I'm James — a civil engineer turned cybersecurity practitioner, focused on SOC operations and GRC. I build hands-on labs, simulate attacks using Kali Linux, and document everything. This portfolio is where I show the work.
 </p>
