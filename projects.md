@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
+{% raw %}
 <style>
   .projects-intro {
     font-size: 16px;
@@ -124,9 +125,7 @@ permalink: /projects/
     gap: 0.4rem;
   }
 
-  .coming-soon-card .card-category {
-    color: #555;
-  }
+  .coming-soon-card .card-category { color: #555; }
 
   .coming-soon-card .card-title {
     color: #555;
@@ -144,8 +143,7 @@ permalink: /projects/
   }
 </style>
 
-### **My Projects**
-{: style="margin-bottom: 0.5rem;" }
+<h3><strong>My Projects</strong></h3>
 
 <p class="projects-intro">
   Hands-on work across SOC operations, GRC, and vulnerability management — built in homelabs and real environments using industry-standard tools and frameworks. Each project links to a full write-up on GitHub.
@@ -378,3 +376,4 @@ permalink: /projects/
   </div>
 
 </div>
+{% endraw %}
