@@ -169,20 +169,6 @@ permalink: /projects/
   </div>
 
   <div class="project-card">
-    <span class="card-category cat-soc">SOC · IDS · Network</span>
-    <a class="card-title" href="https://github.com/JKopal101/network-traffic-with-suricata" target="_blank">Network Traffic Analysis with Suricata</a>
-    <p class="card-outcome">Configured Suricata as an IDS on a virtual network, loaded Emerging Threats rulesets, and analysed live traffic to detect port scans, protocol anomalies, and rule-triggered alerts.</p>
-    <div class="card-tags">
-      <span class="tag">Suricata</span>
-      <span class="tag">IDS/IPS</span>
-      <span class="tag">Network Monitoring</span>
-      <span class="tag">Linux</span>
-      <span class="tag">Log Analysis</span>
-    </div>
-    <a class="card-link" href="https://github.com/JKopal101/network-traffic-with-suricata" target="_blank">View on GitHub →</a>
-  </div>
-
-  <div class="project-card">
     <span class="card-category cat-soc">Threat Hunting · Endpoint</span>
     <a class="card-title" href="https://github.com/JKopal101/threat-hunting-scenario-tor" target="_blank">Threat Hunting Scenario: Tor Browser Detection</a>
     <p class="card-outcome">Simulated a Tor-based exfiltration scenario in Azure, then used Microsoft Defender and KQL hunting queries to identify the activity, trace the process tree, and document the full investigation.</p>
@@ -194,6 +180,20 @@ permalink: /projects/
       <span class="tag">MITRE ATT&CK</span>
     </div>
     <a class="card-link" href="https://github.com/JKopal101/threat-hunting-scenario-tor" target="_blank">View on GitHub →</a>
+  </div>
+
+  <div class="project-card">
+    <span class="card-category cat-soc">SOC · IDS · Network</span>
+    <a class="card-title" href="https://github.com/JKopal101/network-traffic-with-suricata" target="_blank">Network Traffic Analysis with Suricata</a>
+    <p class="card-outcome">Configured Suricata as an IDS on a virtual network, loaded Emerging Threats rulesets, and analysed live traffic to detect port scans, protocol anomalies, and rule-triggered alerts.</p>
+    <div class="card-tags">
+      <span class="tag">Suricata</span>
+      <span class="tag">IDS/IPS</span>
+      <span class="tag">Network Monitoring</span>
+      <span class="tag">Linux</span>
+      <span class="tag">Log Analysis</span>
+    </div>
+    <a class="card-link" href="https://github.com/JKopal101/network-traffic-with-suricata" target="_blank">View on GitHub →</a>
   </div>
 
   <div class="project-card">
@@ -284,9 +284,9 @@ permalink: /projects/
   </div>
 
   <div class="project-card">
-    <span class="card-category cat-vuln">Vuln Management · Volunteer</span>
+    <span class="card-category cat-vuln">Vuln Management · Contractor</span>
     <a class="card-title" href="https://github.com/JKopal101/cybernara-project-portfolio" target="_blank">CyberNara Vulnerability Management Portfolio</a>
-    <p class="card-outcome">Volunteer engagement with CyberNara — applied vulnerability management practices in a real-organisation context, including scanning with Tenable, remediation prioritisation, and policy development.</p>
+    <p class="card-outcome">Contract engagement with CyberNara — applied vulnerability management practices in a live organisational context, including scanning with Tenable, remediation prioritisation, and policy development.</p>
     <div class="card-tags">
       <span class="tag">Tenable</span>
       <span class="tag">Azure</span>
@@ -306,26 +306,13 @@ permalink: /projects/
   <div class="project-card">
     <span class="card-category cat-grc">GRC · NIST · ISO 27001</span>
     <a class="card-title" href="https://github.com/JKopal101/Conducting-a-Security-Audit" target="_blank">GRC Capstone: Security Audit and Risk Assessment</a>
-    <p class="card-outcome">Conducted a full NIST-based security audit including risk register, controls gap analysis, compliance review against ISO 27001, and a remediation roadmap — presented as a professional deliverable.</p>
-    <div class="card-tags">
-      <span class="tag">NIST CSF</span>
-      <span class="tag">ISO 27001</span>
-      <span class="tag">Risk Register</span>
-      <span class="tag">GDPR</span>
-      <span class="tag">HIPAA</span>
-    </div>
-    <a class="card-link" href="https://github.com/JKopal101/Conducting-a-Security-Audit" target="_blank">View on GitHub →</a>
-  </div>
-
-  <div class="project-card">
-    <span class="card-category cat-grc">GRC · Policy · IR</span>
-    <a class="card-title" href="https://github.com/JKopal101/Conducting-a-Security-Audit" target="_blank">Conducting a Security Audit</a>
-    <p class="card-outcome">Applied the NIST Risk Management Framework to evaluate an organisation's security posture — assessing controls against the CIA triad, identifying compliance gaps, and producing incident response playbook documentation.</p>
+    <p class="card-outcome">Conducted a full NIST RMF-based security audit — risk register, controls gap analysis against ISO 27001, CIA triad assessment, compliance review, and an incident response playbook — presented as a professional deliverable with a remediation roadmap.</p>
     <div class="card-tags">
       <span class="tag">NIST RMF</span>
+      <span class="tag">ISO 27001</span>
+      <span class="tag">Risk Register</span>
       <span class="tag">CIA Triad</span>
       <span class="tag">IR Playbook</span>
-      <span class="tag">Compliance Review</span>
     </div>
     <a class="card-link" href="https://github.com/JKopal101/Conducting-a-Security-Audit" target="_blank">View on GitHub →</a>
   </div>
