@@ -169,11 +169,12 @@ permalink: /projects/
     <a class="card-link" href="https://github.com/JKopal101/ms-azure-with-siem" target="_blank">View on GitHub →</a>
   </div>
 
-  <div class="project-card">
-    <span class="card-category cat-soc">Threat Hunting · Endpoint</span>
+ <div class="project-card">
+    <span class="card-category cat-soc">Threat Hunting · Cyber Range</span>
     <a class="card-title" href="https://github.com/JKopal101/threat-hunting-scenario-tor" target="_blank">Threat Hunting Scenario: Tor Browser Detection</a>
-    <p class="card-outcome">Simulated a Tor-based exfiltration scenario in Azure, then used Microsoft Defender and KQL hunting queries to identify the activity, trace the process tree, and document the full investigation.</p>
+    <p class="card-outcome">Completed as part of LOG(N) Pacific's Cyber Range program — simulated a Tor-based exfiltration scenario in Azure, then used Microsoft Defender and KQL hunting queries to identify the activity, trace the process tree, and document the full investigation.</p>
     <div class="card-tags">
+      <span class="tag">LOG(N) Pacific</span>
       <span class="tag">KQL</span>
       <span class="tag">MS Defender</span>
       <span class="tag">Azure VM</span>
