@@ -193,7 +193,7 @@ permalink: /contact/
 
 <div class="cv-section">
   <p class="cv-label">CV / Resume</p>
-  <a class="cv-card" href="https://docs.google.com/document/d/1F_LVblUTnLC8-tz-HEI1capla8Y_Z3qq/edit" target="_blank">
+  <a class="cv-card" href="https://docs.google.com/document/d/1hr-bFclWVE3y3mPz4JWyAUvbVj8xEgeJk5WPUHhHHr4/edit?tab=t.0" target="_blank">
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
       <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6zm-1 1.5L18.5 9H13V3.5zM6 20V4h5v7h7v9H6z"/>
     </svg>
