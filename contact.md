@@ -136,7 +136,7 @@ permalink: /contact/
 <h3><strong>Contact</strong></h3>
 
 <p class="contact-intro">
-  Open to SOC analyst, GRC analyst, and junior security roles in the Canadian market. Feel free to reach out on LinkedIn or by email — I'm always happy to connect.
+  Open to SOC analyst, GRC analyst, information security roles in the Canadian market. Feel free to reach out on LinkedIn or by email — I'm always happy to connect.
 </p>
 
 <div class="contact-grid">
