@@ -53,9 +53,10 @@ permalink: /projects/
     text-transform: uppercase;
   }
 
-  .cat-soc  { color: #e07b54; }
-  .cat-grc  { color: #7ba8d4; }
-  .cat-vuln { color: #c4a85a; }
+  .cat-soc   { color: #e07b54; }
+  .cat-grc   { color: #7ba8d4; }
+  .cat-vuln  { color: #c4a85a; }
+  .cat-found { color: #7a7a7a; }
 
   .card-title {
     font-size: 15px;
@@ -183,20 +184,6 @@ permalink: /projects/
   </div>
 
   <div class="project-card">
-    <span class="card-category cat-soc">SOC · IDS · Network</span>
-    <a class="card-title" href="https://github.com/JKopal101/network-traffic-with-suricata" target="_blank">Network Traffic Analysis with Suricata</a>
-    <p class="card-outcome">Configured Suricata as an IDS on a virtual network, loaded Emerging Threats rulesets, and analysed live traffic to detect port scans, protocol anomalies, and rule-triggered alerts.</p>
-    <div class="card-tags">
-      <span class="tag">Suricata</span>
-      <span class="tag">IDS/IPS</span>
-      <span class="tag">Network Monitoring</span>
-      <span class="tag">Linux</span>
-      <span class="tag">Log Analysis</span>
-    </div>
-    <a class="card-link" href="https://github.com/JKopal101/network-traffic-with-suricata" target="_blank">View on GitHub →</a>
-  </div>
-
-  <div class="project-card">
     <span class="card-category cat-soc">Incident Response · Phishing</span>
     <a class="card-title" href="https://github.com/JKopal101/email-phishing-analysis" target="_blank">Incident Response: Email Phishing Analysis</a>
     <p class="card-outcome">Investigated a phishing email sample end-to-end — header analysis, URL and domain reputation checks via VirusTotal and URLscan, IOC extraction, and a structured incident report.</p>
@@ -211,6 +198,20 @@ permalink: /projects/
   </div>
 
   <div class="project-card">
+    <span class="card-category cat-soc">SOC · IDS · Network</span>
+    <a class="card-title" href="https://github.com/JKopal101/network-traffic-with-suricata" target="_blank">Network Traffic Analysis with Suricata</a>
+    <p class="card-outcome">Configured Suricata as an IDS on a virtual network, loaded Emerging Threats rulesets, and analysed live traffic to detect port scans, protocol anomalies, and rule-triggered alerts.</p>
+    <div class="card-tags">
+      <span class="tag">Suricata</span>
+      <span class="tag">IDS/IPS</span>
+      <span class="tag">Network Monitoring</span>
+      <span class="tag">Linux</span>
+      <span class="tag">Log Analysis</span>
+    </div>
+    <a class="card-link" href="https://github.com/JKopal101/network-traffic-with-suricata" target="_blank">View on GitHub →</a>
+  </div>
+
+  <div class="project-card">
     <span class="card-category cat-soc">Detection · Forensics</span>
     <a class="card-title" href="https://github.com/JKopal101/honeypot--and-canary-token-monitoring" target="_blank">Honeypot and Canary Token Monitoring</a>
     <p class="card-outcome">Deployed a honeypot and embedded canary tokens to detect unauthorised access attempts. Monitored triggered alerts, automated notifications via scripting, and analysed attacker behaviour patterns.</p>
@@ -222,78 +223,6 @@ permalink: /projects/
       <span class="tag">Log Analysis</span>
     </div>
     <a class="card-link" href="https://github.com/JKopal101/honeypot--and-canary-token-monitoring" target="_blank">View on GitHub →</a>
-  </div>
-
-  <div class="project-card">
-    <span class="card-category cat-soc">Recon · Network</span>
-    <a class="card-title" href="https://github.com/JKopal101/Network-Scanning-with-Nmap" target="_blank">Network Scanning with Nmap</a>
-    <p class="card-outcome">Performed structured network reconnaissance using Nmap across a lab environment — host discovery, port scanning, service enumeration, and OS fingerprinting — with findings documented and analysed.</p>
-    <div class="card-tags">
-      <span class="tag">Nmap</span>
-      <span class="tag">Linux</span>
-      <span class="tag">Network Recon</span>
-      <span class="tag">Log Investigation</span>
-    </div>
-    <a class="card-link" href="https://github.com/JKopal101/Network-Scanning-with-Nmap" target="_blank">View on GitHub →</a>
-  </div>
-
-</div>
-
-
-<div class="category-label">⚠️ Vulnerability Management</div>
-
-<div class="card-grid">
-
-  <div class="project-card">
-    <span class="card-category cat-vuln">Vuln Management · Cloud</span>
-    <a class="card-title" href="https://github.com/JKopal101/vulnerability-management-project" target="_blank">Vulnerability Management Program Implementation</a>
-    <p class="card-outcome">Designed and implemented a vulnerability management lifecycle using Tenable on Azure VMs — scanning, CVSS-based prioritisation, remediation tracking, and policy documentation.</p>
-    <div class="card-tags">
-      <span class="tag">Tenable</span>
-      <span class="tag">Azure</span>
-      <span class="tag">PowerShell</span>
-      <span class="tag">BASH</span>
-      <span class="tag">CVSS Prioritisation</span>
-    </div>
-    <a class="card-link" href="https://github.com/JKopal101/vulnerability-management-project" target="_blank">View on GitHub →</a>
-  </div>
-
-  <div class="project-card">
-    <span class="card-category cat-vuln">Vuln Scanning · Log Analysis</span>
-    <a class="card-title" href="https://github.com/JKopal101/Vulnerability-Scanning-using-Nessus" target="_blank">Vulnerability Scanning using Nessus</a>
-    <p class="card-outcome">Ran authenticated and unauthenticated Nessus scans against lab targets, triaged findings by severity, and cross-referenced results with incident response logs to identify exploitable gaps.</p>
-    <div class="card-tags">
-      <span class="tag">Nessus</span>
-      <span class="tag">Vulnerability Management</span>
-      <span class="tag">Log Analysis</span>
-      <span class="tag">Incident Response</span>
-    </div>
-    <a class="card-link" href="https://github.com/JKopal101/Vulnerability-Scanning-using-Nessus" target="_blank">View on GitHub →</a>
-  </div>
-
-  <div class="project-card">
-    <span class="card-category cat-vuln">Vuln Assessment · Log Analysis</span>
-    <a class="card-title" href="https://github.com/JKopal101/Vulnerability-Assessment-and-Log-Analysis-Lab" target="_blank">Vulnerability Assessment and Log Analysis Lab</a>
-    <p class="card-outcome">Combined vulnerability assessment with log correlation in a lab environment — identifying findings, mapping them to attack patterns in logs, and producing a structured findings report.</p>
-    <div class="card-tags">
-      <span class="tag">Log Investigation</span>
-      <span class="tag">Vulnerability Assessment</span>
-      <span class="tag">Incident Response</span>
-    </div>
-    <a class="card-link" href="https://github.com/JKopal101/Vulnerability-Assessment-and-Log-Analysis-Lab" target="_blank">View on GitHub →</a>
-  </div>
-
-  <div class="project-card">
-    <span class="card-category cat-vuln">Vuln Management · Contractor</span>
-    <a class="card-title" href="https://github.com/JKopal101/cybernara-project-portfolio" target="_blank">CyberNara Vulnerability Management Portfolio</a>
-    <p class="card-outcome">Contract engagement with CyberNara — applied vulnerability management practices in a live organisational context, including scanning with Tenable, remediation prioritisation, and policy development.</p>
-    <div class="card-tags">
-      <span class="tag">Tenable</span>
-      <span class="tag">Azure</span>
-      <span class="tag">Policy Development</span>
-      <span class="tag">PowerShell</span>
-    </div>
-    <a class="card-link" href="https://github.com/JKopal101/cybernara-project-portfolio" target="_blank">View on GitHub →</a>
   </div>
 
 </div>
@@ -329,6 +258,68 @@ permalink: /projects/
       <span class="tag">Vuln Management</span>
     </div>
     <a class="card-link" href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy" target="_blank">View on GitHub →</a>
+  </div>
+
+</div>
+
+
+<div class="category-label">⚠️ Vulnerability Management</div>
+
+<div class="card-grid">
+
+  <div class="project-card">
+    <span class="card-category cat-vuln">Vuln Management · Contractor</span>
+    <a class="card-title" href="https://github.com/JKopal101/cybernara-project-portfolio" target="_blank">CyberNara Vulnerability Management Portfolio</a>
+    <p class="card-outcome">Contract engagement with CyberNara — applied vulnerability management practices in a live organisational context, including scanning with Tenable, remediation prioritisation, and policy development.</p>
+    <div class="card-tags">
+      <span class="tag">Tenable</span>
+      <span class="tag">Azure</span>
+      <span class="tag">Policy Development</span>
+      <span class="tag">PowerShell</span>
+    </div>
+    <a class="card-link" href="https://github.com/JKopal101/cybernara-project-portfolio" target="_blank">View on GitHub →</a>
+  </div>
+
+</div>
+
+
+<div class="category-label">🧰 Foundational Labs</div>
+
+<div class="card-grid">
+
+  <div class="project-card">
+    <span class="card-category cat-found">Vuln Scanning · Log Analysis</span>
+    <a class="card-title" href="https://github.com/JKopal101/Vulnerability-Scanning-using-Nessus" target="_blank">Vulnerability Scanning using Nessus</a>
+    <p class="card-outcome">Ran authenticated and unauthenticated Nessus scans against lab targets, triaged findings by severity, and cross-referenced results with incident response logs to identify exploitable gaps.</p>
+    <div class="card-tags">
+      <span class="tag">Nessus</span>
+      <span class="tag">Vulnerability Management</span>
+      <span class="tag">Log Analysis</span>
+    </div>
+    <a class="card-link" href="https://github.com/JKopal101/Vulnerability-Scanning-using-Nessus" target="_blank">View on GitHub →</a>
+  </div>
+
+  <div class="project-card">
+    <span class="card-category cat-found">Vuln Assessment · Log Analysis</span>
+    <a class="card-title" href="https://github.com/JKopal101/Vulnerability-Assessment-and-Log-Analysis-Lab" target="_blank">Vulnerability Assessment and Log Analysis Lab</a>
+    <p class="card-outcome">Combined vulnerability assessment with log correlation in a lab environment — identifying findings, mapping them to attack patterns in logs, and producing a structured findings report.</p>
+    <div class="card-tags">
+      <span class="tag">Log Investigation</span>
+      <span class="tag">Vulnerability Assessment</span>
+    </div>
+    <a class="card-link" href="https://github.com/JKopal101/Vulnerability-Assessment-and-Log-Analysis-Lab" target="_blank">View on GitHub →</a>
+  </div>
+
+  <div class="project-card">
+    <span class="card-category cat-found">Recon · Network</span>
+    <a class="card-title" href="https://github.com/JKopal101/Network-Scanning-with-Nmap" target="_blank">Network Scanning with Nmap</a>
+    <p class="card-outcome">Performed structured network reconnaissance using Nmap across a lab environment — host discovery, port scanning, service enumeration, and OS fingerprinting — with findings documented and analysed.</p>
+    <div class="card-tags">
+      <span class="tag">Nmap</span>
+      <span class="tag">Linux</span>
+      <span class="tag">Network Recon</span>
+    </div>
+    <a class="card-link" href="https://github.com/JKopal101/Network-Scanning-with-Nmap" target="_blank">View on GitHub →</a>
   </div>
 
 </div>
