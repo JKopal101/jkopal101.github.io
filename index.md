@@ -330,7 +330,7 @@ permalink: /
   <li><span class="cert-date">Oct 2024</span> <a href="https://brainstation.io/" target="_blank">BrainStation Cybersecurity Capstone</a> <span class="cert-badge badge-done">Complete</span></li>
   <li><span class="cert-date">Late 2024</span> <a href="https://www.coursera.org/" target="_blank">Google Cybersecurity Certificate</a> <span class="cert-badge badge-done">Complete</span></li>
   <li><span class="cert-date">Early 2025</span> <a href="https://tcm-sec.com/" target="_blank">TCM Security: SOC 101</a> <span class="cert-badge badge-done">Complete</span></li>
-  <li class="inprogress"><span class="cert-date">In progress</span> ISC2 CC <span class="cert-badge badge-inprogress">In progress</span></li>
+  <li class="inprogress"><span class="cert-date">In progress</span> ISC2 CC <span class="cert-badge badge-inprogress">January 2027</span></li>
   <li class="inprogress"><span class="cert-date">In progress</span> CompTIA Security+ <span class="cert-badge badge-inprogress">In progress</span></li>
   <li class="inprogress"><span class="cert-date">In progress</span> ISO 27001 Lead Implementer <span class="cert-badge badge-inprogress">In progress</span></li>
   <li class="planned"><span class="cert-date">Planned</span> CompTIA CySA+ <span class="cert-badge badge-planned">Planned</span></li>
