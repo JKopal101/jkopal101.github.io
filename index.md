@@ -236,6 +236,54 @@ permalink: /
     color: #ccc;
     border: 1px solid #333;
   }
+
+.cert-list {
+  list-style: none;
+  position: relative;
+  padding-left: 1.75rem;
+  max-width: 640px;
+}
+
+.cert-list::before {
+  content: "";
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  bottom: 6px;
+  width: 2px;
+  background: linear-gradient(to bottom, #4dd0e1 0%, #4dd0e1 40%, #f2b544 40%, #f2b544 75%, #555 75%, #555 100%);
+}
+
+.cert-list li {
+  position: relative;
+  padding-bottom: 1.5rem;
+}
+
+.cert-list li:last-child { padding-bottom: 0; }
+
+.cert-list li::before {
+  content: "";
+  position: absolute;
+  left: -1.75rem;
+  top: 4px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid #4dd0e1;
+  background: inherit;
+}
+
+.cert-list li.inprogress::before { border-color: #f2b544; }
+.cert-list li.planned::before { border-color: #555; }
+
+.cert-list .cert-date {
+  display: block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  color: #9a9a9a;
+  margin-bottom: 0.15rem;
+}
+  
 </style>
 
 <h1 style="font-size:2rem; font-weight:700; color:#f0f0f0; margin-bottom:1.5rem; line-height:1.2;">Exploring Cybersecurity &amp; Digital Defense</h1>
@@ -279,14 +327,14 @@ permalink: /
 <h2 class="section-heading">Certifications & Learning Path</h2>
 
 <ul class="cert-list">
-  <li><a href="https://tcm-sec.com/" target="_blank">TCM Security: SOC 101</a> <span class="cert-badge badge-done">Complete</span></li>
-  <li><a href="https://www.coursera.org/" target="_blank">Google Cybersecurity Certificate</a> <span class="cert-badge badge-done">Complete</span></li>
-  <li><a href="https://brainstation.io/" target="_blank">BrainStation Cybersecurity Capstone</a> <span class="cert-badge badge-done">Complete</span></li>
-  <li class="inprogress">ISC2 CC <span class="cert-badge badge-inprogress">In progress</span></li>
-  <li class="inprogress">CompTIA Security+ <span class="cert-badge badge-inprogress">In progress</span></li>
-  <li class="inprogress">ISO 27001 Lead Implementer <span class="cert-badge badge-inprogress">In progress</span></li>
-  <li class="planned">CompTIA CySA+ <span class="cert-badge badge-planned">Planned</span></li>
-  <li class="planned">CISSP <span class="cert-badge badge-planned">Planned</span></li>
+  <li><span class="cert-date">Oct 2024</span> <a href="https://brainstation.io/" target="_blank">BrainStation Cybersecurity Capstone</a> <span class="cert-badge badge-done">Complete</span></li>
+  <li><span class="cert-date">Late 2024</span> <a href="https://www.coursera.org/" target="_blank">Google Cybersecurity Certificate</a> <span class="cert-badge badge-done">Complete</span></li>
+  <li><span class="cert-date">Early 2025</span> <a href="https://tcm-sec.com/" target="_blank">TCM Security: SOC 101</a> <span class="cert-badge badge-done">Complete</span></li>
+  <li class="inprogress"><span class="cert-date">In progress</span> ISC2 CC <span class="cert-badge badge-inprogress">In progress</span></li>
+  <li class="inprogress"><span class="cert-date">In progress</span> CompTIA Security+ <span class="cert-badge badge-inprogress">In progress</span></li>
+  <li class="inprogress"><span class="cert-date">In progress</span> ISO 27001 Lead Implementer <span class="cert-badge badge-inprogress">In progress</span></li>
+  <li class="planned"><span class="cert-date">Planned</span> CompTIA CySA+ <span class="cert-badge badge-planned">Planned</span></li>
+  <li class="planned"><span class="cert-date">Planned</span> CISSP <span class="cert-badge badge-planned">Planned</span></li>
 </ul>
 
 
